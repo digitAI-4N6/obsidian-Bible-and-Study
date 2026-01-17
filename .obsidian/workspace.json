@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year of.md",
+                "file": "27 - Daniel/Dan-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "year of"
+              "title": "Dan-01"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year of.md",
+                "file": "27 - Daniel/Dan-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for year of"
+              "title": "Backlinks for Dan-01"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year of.md",
+                "file": "27 - Daniel/Dan-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from year of"
+              "title": "Outgoing links from Dan-01"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year of.md",
+                "file": "27 - Daniel/Dan-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of year of"
+              "title": "Outline of Dan-01"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "d64de09dc3685bf9",
   "lastOpenFiles": [
+    "reign of.md",
     "27 - Daniel/Dan-01.md",
     "year of.md",
     "Babylon.md",
