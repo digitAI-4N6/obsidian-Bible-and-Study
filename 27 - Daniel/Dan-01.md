@@ -6,7 +6,7 @@
 
 
 ###### v1 
-In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. 
+In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar [[king of Babylon]] came to Jerusalem and besieged it. 
 
 ###### v2 
 The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god. 
