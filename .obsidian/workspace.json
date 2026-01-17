@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Babylon.md",
+                "file": "year of.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Babylon"
+              "title": "year of"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Babylon.md",
+                "file": "year of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Babylon"
+              "title": "Backlinks for year of"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Babylon.md",
+                "file": "year of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Babylon"
+              "title": "Outgoing links from year of"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Babylon.md",
+                "file": "year of.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Babylon"
+              "title": "Outline of year of"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "d64de09dc3685bf9",
   "lastOpenFiles": [
-    "king of Babylon.md",
+    "27 - Daniel/Dan-01.md",
+    "year of.md",
     "Babylon.md",
-    "27 - Daniel/Dan-01.md"
+    "king of Babylon.md"
   ]
 }
