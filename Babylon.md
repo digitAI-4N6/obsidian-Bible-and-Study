@@ -11,7 +11,7 @@
 
 ### Genesis 10:10 
 
-> The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
+> The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of [[Shinar]].
 
 
 ### Genesis 11:9 
@@ -24,7 +24,7 @@
 
 ### 2 Kings 17:24 
 
-> The king of Assyria brought men from [[Babylon]], from Cuthah, from Avva, from Hamath and Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel; and they possessed Samaria, and lived in its cities.
+> The king of Assyria brought men from [[Babylon]], from Cuthah, from Avva, from Hamath and Sepharvaim, and placed them in the cities of Samaria instead of the [[children of Israel]]; and they possessed Samaria, and lived in its cities.
 
 
 ### 2 Kings 17:30 
@@ -95,7 +95,7 @@
 
 ### Isaiah 39:7 
 
-> “They will take away your sons who will issue from you, whom you shall father, and they will be eunuchs in the palace of the king of [[Babylon]].”
+> “They will take away your sons who will issue from you, whom you shall father, and they will be [[eunuchs]] in the palace of the king of [[Babylon]].”
 
 
 ## V. Babylon Under Nebuchadnezzar — Imperial Rise and Judah Subjugated
@@ -354,7 +354,7 @@
 
 ### Daniel 1:2 
 
-> The Lord gave [[Jehoiakim]] king of Judah into his hand, with some of the vessels of the house of God; and he carried them into the land of [[Babylon]] to the house of his god.
+> The Lord gave [[Jehoiakim]] king of Judah into his hand, with some of the [[vessels of the house of God]]; and he carried them into the land of [[Babylon]] to the [[house of his god]].
 
 
 ### Daniel 2:1 
@@ -470,7 +470,7 @@
 
 ### Zechariah 5:11 
 
-> To build a house for it in the land of Shinar.
+> To build a house for it in the land of [[Shinar]].
 
 
 ## X. Babylon in Exile and Return

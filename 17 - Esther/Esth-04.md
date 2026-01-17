@@ -15,10 +15,10 @@ He came even before the king's gate, for no one is allowed inside the king's gat
 In every province, wherever the king's commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes. 
 
 ###### v4 
-Esther's maidens and her eunuchs came and told her this, and the queen was exceedingly grieved. She sent clothing to Mordecai, to replace his sackcloth; but he didn't receive it. 
+Esther's maidens and her [[eunuchs]] came and told her this, and the queen was exceedingly grieved. She sent clothing to Mordecai, to replace his sackcloth; but he didn't receive it. 
 
 ###### v5 
-Then Esther called for Hathach, one of the king's eunuchs, whom he had appointed to attend her, and commanded him to go to Mordecai, to find out what this was, and why it was. 
+Then Esther called for Hathach, one of the king's [[eunuchs]], whom he had appointed to attend her, and commanded him to go to Mordecai, to find out what this was, and why it was. 
 
 ###### v6 
 So Hathach went out to Mordecai, to city square which was before the king's gate. 

@@ -27,7 +27,7 @@ For, behold, when they flee destruction, Egypt will gather them up. Memphis will
 The days of visitation have come. The days of reckoning have come. Israel will consider the prophet to be a fool, and the man who is inspired to be insane, because of the abundance of your sins, and because your hostility is great. 
 
 ###### v8 
-A prophet watches over Ephraim with my God. A fowler's snare is on all of his paths, and hostility in the house of his God. 
+A prophet watches over Ephraim with my God. A fowler's snare is on all of his paths, and hostility in the [[house of his God]]. 
 
 ###### v9 
 They have deeply corrupted themselves, as in the days of Gibeah. He will remember their iniquity. He will punish them for their sins. 

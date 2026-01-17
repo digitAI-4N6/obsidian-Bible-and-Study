@@ -39,7 +39,7 @@ He carried me away in the Spirit to a great and high mountain, and showed me the
 having the glory of God. Her light was like a most precious stone, as if it were a jasper stone, clear as crystal; 
 
 ###### v12 
-having a great and high wall; having twelve gates, and at the gates twelve angels; and names written on them, which are the names of the twelve tribes of the children of Israel. 
+having a great and high wall; having twelve gates, and at the gates twelve angels; and names written on them, which are the names of the twelve tribes of the [[children of Israel]]. 
 
 ###### v13 
 On the east were three gates; and on the north three gates; and on the south three gates; and on the west three gates. 

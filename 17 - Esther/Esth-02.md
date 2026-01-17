@@ -66,7 +66,7 @@ When the virgins were gathered together the second time, Mordecai was sitting in
 Esther had not yet made known her relatives nor her people, as Mordecai had commanded her; for Esther obeyed Mordecai, like she did when she was brought up by him. 
 
 ###### v21 
-In those days, while Mordecai was sitting in the king's gate, two of the king's eunuchs, Bigthan and Teresh, who were doorkeepers, were angry, and sought to lay hands on the King Ahasuerus. 
+In those days, while Mordecai was sitting in the king's gate, two of the king's [[eunuchs]], Bigthan and Teresh, who were doorkeepers, were angry, and sought to lay hands on the King Ahasuerus. 
 
 ###### v22 
 This thing became known to Mordecai, who informed Esther the queen; and Esther informed the king in Mordecai's name. 

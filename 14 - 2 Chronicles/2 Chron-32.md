@@ -66,7 +66,7 @@ They spoke of the God of Jerusalem as of the gods of the peoples of the earth, w
 Hezekiah the king and Isaiah the prophet the son of Amoz, prayed because of this, and cried to heaven. 
 
 ###### v21 
-Yahweh sent an angel, who cut off all the mighty men of valor, and the leaders and captains, in the camp of the king of Assyria. So he returned with shame of face to his own land. When he had come into the house of his god, those who came out of his own body killed him there with the sword. 
+Yahweh sent an angel, who cut off all the mighty men of valor, and the leaders and captains, in the camp of the king of Assyria. So he returned with shame of face to his own land. When he had come into the [[house of his god]], those who came out of his own body killed him there with the sword. 
 
 ###### v22 
 Thus Yahweh saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria and from the hand of all others, and guided them on every side. 

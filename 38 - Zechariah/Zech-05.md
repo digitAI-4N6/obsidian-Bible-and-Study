@@ -36,7 +36,7 @@ Then I lifted up my eyes and saw, and behold, there were two women, and the wind
 Then I said to the angel who talked with me, "Where are these carrying the ephah basket?" 
 
 ###### v11 
-He said to me, "To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place."
+He said to me, "To build her a house in the land of [[Shinar]]. When it is prepared, she will be set there in her own place."
 
 ***
 [[Zech-04|← Zechariah 04]] | [[Zechariah]] | [[Zech-06|Zechariah 06 →]]

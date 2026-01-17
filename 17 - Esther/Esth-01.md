@@ -33,13 +33,13 @@ In accordance with the law, the drinking was not compulsory; for so the king had
 Also Vashti the queen made a feast for the women in the royal house which belonged to King Ahasuerus. 
 
 ###### v10 
-On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcass, the seven eunuchs who served in the presence of Ahasuerus the king, 
+On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcass, the seven [[eunuchs]] who served in the presence of Ahasuerus the king, 
 
 ###### v11 
 to bring Vashti the queen before the king with the royal crown, to show the people and the princes her beauty; for she was beautiful. 
 
 ###### v12 
-But the queen Vashti refused to come at the king's commandment by the eunuchs. Therefore the king was very angry, and his anger burned in him. 
+But the queen Vashti refused to come at the king's commandment by the [[eunuchs]]. Therefore the king was very angry, and his anger burned in him. 
 
 ###### v13 
 Then the king said to the wise men, who knew the times (for it was the king's custom to consult those who knew law and judgment; 
@@ -48,7 +48,7 @@ Then the king said to the wise men, who knew the times (for it was the king's cu
 and next to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king's face, and sat first in the kingdom), 
 
 ###### v15 
-"What shall we do to Queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the eunuchs?" 
+"What shall we do to Queen Vashti according to law, because she has not done the bidding of the King Ahasuerus by the [[eunuchs]]?" 
 
 ###### v16 
 Memucan answered before the king and the princes, "Vashti the queen has not done wrong to just the king, but also to all the princes, and to all the people who are in all the provinces of the King Ahasuerus. 

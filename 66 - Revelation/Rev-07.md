@@ -15,7 +15,7 @@ I saw another angel ascend from the sunrise, having the seal of the living God. 
 saying, "Don't harm the earth, the sea, or the trees, until we have sealed the bondservants of our God on their foreheads!" 
 
 ###### v4 
-I heard the number of those who were sealed, one hundred forty-four thousand, sealed out of every tribe of the children of Israel: 
+I heard the number of those who were sealed, one hundred forty-four thousand, sealed out of every tribe of the [[children of Israel]]: 
 
 ###### v5 
 of the tribe of Judah twelve thousand were sealed, of the tribe of Reuben twelve thousand, of the tribe of Gad twelve thousand, 

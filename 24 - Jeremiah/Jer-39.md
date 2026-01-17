@@ -21,7 +21,7 @@ When Zedekiah the king of Judah and all the men of war saw them, then they fled,
 But the army of the Chaldeans pursued them, and overtook Zedekiah in the plains of Jericho. When they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath; and he pronounced judgment on him. 
 
 ###### v6 
-Then the king of Babylon killed Zedekiah's sons in Riblah before his eyes. The king of Babylon also killed all the nobles of Judah. 
+Then the king of Babylon killed Zedekiah's sons in Riblah before his eyes. The king of Babylon also killed all the [[nobles]] of Judah. 
 
 ###### v7 
 Moreover he put out Zedekiah's eyes and bound him in fetters, to carry him to Babylon. 

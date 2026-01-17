@@ -63,7 +63,7 @@ But if they are prophets, and if Yahweh's word is with them, let them now make i
 For Yahweh of Armies says concerning the pillars, concerning the sea, concerning the bases, and concerning the rest of the vessels that are left in this city, 
 
 ###### v20 
-which Nebuchadnezzar king of Babylon didn't take when he carried away captive Jeconiah the son of Jehoiakim, king of Judah, from Jerusalem to Babylon, and all the nobles of Judah and Jerusalem; 
+which Nebuchadnezzar king of Babylon didn't take when he carried away captive Jeconiah the son of Jehoiakim, king of Judah, from Jerusalem to Babylon, and all the [[nobles]] of Judah and Jerusalem; 
 
 ###### v21 
 yes, Yahweh of Armies, the God of Israel, says concerning the vessels that are left in Yahweh's house, and in the house of the king of Judah, and at Jerusalem: 
