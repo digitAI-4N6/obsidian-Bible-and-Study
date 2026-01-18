@@ -12,7 +12,7 @@ When Jeremiah had finished speaking to all the people all the words of Yahweh th
 then Azariah the son of Hoshaiah, Johanan the son of Kareah, and all the proud men spoke, saying to Jeremiah, "You speak falsely. Yahweh our God has not sent you to say, 'You shall not go into Egypt to live there;' 
 
 ###### v3 
-but Baruch the son of Neriah has turned you against us, to deliver us into the hand of the Chaldeans, that they may put us to death, and carry us away captive to Babylon." 
+but Baruch the son of Neriah has turned you against us, to deliver us into the hand of the Chaldeans, that they may put us to death, and carry us away captive to [[Babylon]]." 
 
 ###### v4 
 So Johanan the son of Kareah, and all the captains of the forces, and all the people, didn't obey Yahweh's voice, to dwell in the land of Judah. 
@@ -33,7 +33,7 @@ Then Yahweh's word came to Jeremiah in Tahpanhes, saying,
 "Take great stones in your hand, and hide them in mortar in the brick work, which is at the entry of Pharaoh's house in Tahpanhes, in the sight of the men of Judah; 
 
 ###### v10 
-and tell them, Yahweh of Armies, the God of Israel, says: 'Behold, I will send and take Nebuchadnezzar the king of Babylon, my servant, and will set his throne on these stones that I have hidden; and he will spread his royal pavilion over them. 
+and tell them, Yahweh of Armies, the God of Israel, says: 'Behold, I will send and take Nebuchadnezzar the king of [[Babylon]], my servant, and will set his throne on these stones that I have hidden; and he will spread his royal pavilion over them. 
 
 ###### v11 
 He will come, and will strike the land of Egypt; such as are for death will be put to death, and such as are for captivity to captivity, and such as are for the sword to the sword. 

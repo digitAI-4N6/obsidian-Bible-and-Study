@@ -39,13 +39,13 @@ The Chaldeans answered before the king, and said, "There is not a man on the ear
 It is a rare thing that the king requires, and there is no other who can show it before the king, except the gods, whose dwelling is not with flesh." 
 
 ###### v12 
-Because of this, the king was angry and very furious, and commanded that all the wise men of Babylon be destroyed. 
+Because of this, the king was angry and very furious, and commanded that all the wise men of [[Babylon]] be destroyed. 
 
 ###### v13 
 So the decree went out, and the wise men were to be slain. They sought Daniel and his companions to be slain. 
 
 ###### v14 
-Then Daniel returned answer with counsel and prudence to Arioch the captain of the king's guard, who had gone out to kill the wise men of Babylon. 
+Then Daniel returned answer with counsel and prudence to Arioch the captain of the king's guard, who had gone out to kill the wise men of [[Babylon]]. 
 
 ###### v15 
 He answered Arioch the king's captain, "Why is the decree so urgent from the king?" Then Arioch made the thing known to Daniel. 
@@ -57,7 +57,7 @@ Daniel went in, and desired of the king that he would appoint him a time, and he
 Then Daniel went to his house and made the thing known to Hananiah, Mishael, and Azariah, his companions: 
 
 ###### v18 
-that they would desire mercies of the God of heaven concerning this secret; that Daniel and his companions would not perish with the rest of the wise men of Babylon. 
+that they would desire mercies of the God of heaven concerning this secret; that Daniel and his companions would not perish with the rest of the wise men of [[Babylon]]. 
 
 ###### v19 
 Then the secret was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven. 
@@ -75,7 +75,7 @@ He reveals the deep and secret things. He knows what is in the darkness, and the
 I thank you and praise you, O God of my fathers, who have given me wisdom and might, and have now made known to me what we desired of you; for you have made known to us the king's matter." 
 
 ###### v24 
-Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said this to him: "Don't destroy the wise men of Babylon. Bring me in before the king, and I will show to the king the interpretation." 
+Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of [[Babylon]]. He went and said this to him: "Don't destroy the wise men of [[Babylon]]. Bring me in before the king, and I will show to the king the interpretation." 
 
 ###### v25 
 Then Arioch brought in Daniel before the king in haste, and said this to him: "I have found a man of the children of the captivity of Judah who will make known to the king the interpretation." 
@@ -147,10 +147,10 @@ Then king Nebuchadnezzar fell on his face, worshiped Daniel, and commanded that 
 The king answered to Daniel, and said, "Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, since you have been able to reveal this secret." 
 
 ###### v48 
-Then the king made Daniel great, and gave him many great gifts, and made him rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon. 
+Then the king made Daniel great, and gave him many great gifts, and made him rule over the whole province of [[Babylon]], and to be chief governor over all the wise men of [[Babylon]]. 
 
 ###### v49 
-Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel was in the king's gate.
+Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of [[Babylon]]; but Daniel was in the king's gate.
 
 ***
 [[Dan-01|← Daniel 01]] | [[Daniel]] | [[Dan-03|Daniel 03 →]]

@@ -36,7 +36,7 @@ Manasseh seduced Judah and the inhabitants of Jerusalem, so that they did more e
 Yahweh spoke to Manasseh, and to his people; but they didn't listen. 
 
 ###### v11 
-Therefore Yahweh brought on them the captains of the army of the king of Assyria, who took Manasseh in chains, bound him with fetters, and carried him to Babylon. 
+Therefore Yahweh brought on them the captains of the army of the king of Assyria, who took Manasseh in chains, bound him with fetters, and carried him to [[Babylon]]. 
 
 ###### v12 
 When he was in distress, he begged Yahweh his God, and humbled himself greatly before the God of his fathers. 

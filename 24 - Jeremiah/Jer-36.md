@@ -90,7 +90,7 @@ Then Yahweh's word came to Jeremiah, after the king had burned the scroll, and t
 "Take again another scroll, and write in it all the former words that were in the first scroll, which Jehoiakim the king of Judah has burned. 
 
 ###### v29 
-Concerning Jehoiakim king of Judah you shall say, 'Yahweh says: "You have burned this scroll, saying, "Why have you written therein, saying, 'The king of Babylon will certainly come and destroy this land, and will cause to cease from there man and animal?'"' 
+Concerning Jehoiakim king of Judah you shall say, 'Yahweh says: "You have burned this scroll, saying, "Why have you written therein, saying, 'The king of [[Babylon]] will certainly come and destroy this land, and will cause to cease from there man and animal?'"' 
 
 ###### v30 
 Therefore Yahweh says concerning Jehoiakim king of Judah: "He will have no one to sit on David's throne. His dead body will be cast out in the day to the heat, and in the night to the frost. 

@@ -12,7 +12,7 @@ Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son
 "Yahweh says, 'He who remains in this city will die by the sword, by the famine, and by the pestilence; but he who goes out to the Chaldeans will live, and he will escape with his life, and he will live.' 
 
 ###### v3 
-Yahweh says, 'This city will surely be given into the hand of the army of the king of Babylon, and he will take it.'" 
+Yahweh says, 'This city will surely be given into the hand of the army of the king of [[Babylon]], and he will take it.'" 
 
 ###### v4 
 Then the princes said to the king, "Please let this man be put to death; because he weakens the hands of the men of war who remain in this city, and the hands of all the people, in speaking such words to them: for this man doesn't seek the welfare of this people, but harm." 
@@ -54,10 +54,10 @@ Then Jeremiah said to Zedekiah, "If I declare it to you, will you not surely put
 So Zedekiah the king swore secretly to Jeremiah, saying, "As Yahweh lives, who made us this soul, I will not put you to death, neither will I give you into the hand of these men who seek your life." 
 
 ###### v17 
-Then Jeremiah said to Zedekiah, "Yahweh, the God of Armies, the God of Israel, says: 'If you will go out to the king of Babylon's princes, then your soul will live, and this city will not be burned with fire. You will live, along with your house. 
+Then Jeremiah said to Zedekiah, "Yahweh, the God of Armies, the God of Israel, says: 'If you will go out to the king of [[Babylon]]'s princes, then your soul will live, and this city will not be burned with fire. You will live, along with your house. 
 
 ###### v18 
-But if you will not go out to the king of Babylon's princes, then this city will be given into the hand of the Chaldeans, and they will burn it with fire, and you won't escape out of their hand.'" 
+But if you will not go out to the king of [[Babylon]]'s princes, then this city will be given into the hand of the Chaldeans, and they will burn it with fire, and you won't escape out of their hand.'" 
 
 ###### v19 
 Zedekiah the king said to Jeremiah, "I am afraid of the Jews who have defected to the Chaldeans, lest they deliver me into their hand, and they mock me." 
@@ -69,10 +69,10 @@ But Jeremiah said, "They won't deliver you. Obey, I beg you, Yahweh's voice, in 
 But if you refuse to go out, this is the word that Yahweh has shown me: 
 
 ###### v22 
-'Behold, all the women who are left in the king of Judah's house will be brought out to the king of Babylon's princes, and those women will say, "Your familiar friends have turned on you, and have prevailed over you. Your feet are sunk in the mire, they have turned away from you." 
+'Behold, all the women who are left in the king of Judah's house will be brought out to the king of [[Babylon]]'s princes, and those women will say, "Your familiar friends have turned on you, and have prevailed over you. Your feet are sunk in the mire, they have turned away from you." 
 
 ###### v23 
-They will bring out all your wives and your children to the Chaldeans. You won't escape out of their hand, but will be taken by the hand of the king of Babylon. You will cause this city to be burned with fire.'" 
+They will bring out all your wives and your children to the Chaldeans. You won't escape out of their hand, but will be taken by the hand of the king of [[Babylon]]. You will cause this city to be burned with fire.'" 
 
 ###### v24 
 Then Zedekiah said to Jeremiah, "Let no man know of these words, and you won't die. 

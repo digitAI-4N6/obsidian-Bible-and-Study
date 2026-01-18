@@ -24,7 +24,7 @@ In the same hour, the fingers of a man's hand came out and wrote near the lamp s
 Then the king's face was changed in him, and his thoughts troubled him; and the joints of his thighs were loosened, and his knees struck one against another. 
 
 ###### v7 
-The king cried aloud to bring in the enchanters, the Chaldeans, and the soothsayers. The king spoke and said to the wise men of Babylon, "Whoever reads this writing, and shows me its interpretation, shall be clothed with purple, and have a chain of gold about his neck, and shall be the third ruler in the kingdom." 
+The king cried aloud to bring in the enchanters, the Chaldeans, and the soothsayers. The king spoke and said to the wise men of [[Babylon]], "Whoever reads this writing, and shows me its interpretation, shall be clothed with purple, and have a chain of gold about his neck, and shall be the third ruler in the kingdom." 
 
 ###### v8 
 Then all the king's wise men came in; but they could not read the writing, and couldn't make known to the king the interpretation. 

@@ -6,16 +6,16 @@
 
 
 ###### v1 
-Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon, 
+Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to [[Babylon]], 
 
 ###### v2 
 (after Jeconiah the king, the queen mother, the eunuchs, the princes of Judah and Jerusalem, the craftsmen, and the smiths, had departed from Jerusalem), 
 
 ###### v3 
-by the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent to Babylon to Nebuchadnezzar king of Babylon). It said: 
+by the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent to [[Babylon]] to Nebuchadnezzar king of [[Babylon]]). It said: 
 
 ###### v4 
-Yahweh of Armies, the God of Israel, says to all the captives whom I have caused to be carried away captive from Jerusalem to Babylon: 
+Yahweh of Armies, the God of Israel, says to all the captives whom I have caused to be carried away captive from Jerusalem to [[Babylon]]: 
 
 ###### v5 
 "Build houses and dwell in them. Plant gardens and eat their fruit. 
@@ -33,7 +33,7 @@ For Yahweh of Armies, the God of Israel says: "Don't let your prophets who are a
 For they prophesy falsely to you in my name. I have not sent them," says Yahweh. 
 
 ###### v10 
-For Yahweh says, "After seventy years are accomplished for Babylon, I will visit you and perform my good word toward you, in causing you to return to this place. 
+For Yahweh says, "After seventy years are accomplished for [[Babylon]], I will visit you and perform my good word toward you, in causing you to return to this place. 
 
 ###### v11 
 For I know the thoughts that I think toward you," says Yahweh, "thoughts of peace, and not of evil, to give you hope and a future. 
@@ -48,7 +48,7 @@ You shall seek me, and find me, when you search for me with all your heart.
 I will be found by you," says Yahweh, "and I will turn again your captivity, and I will gather you from all the nations, and from all the places where I have driven you, says Yahweh. I will bring you again to the place from where I caused you to be carried away captive." 
 
 ###### v15 
-Because you have said, "Yahweh has raised us up prophets in Babylon;" 
+Because you have said, "Yahweh has raised us up prophets in [[Babylon]];" 
 
 ###### v16 
 Yahweh says concerning the king who sits on David's throne, and concerning all the people who dwell in this city, your brothers who haven't gone with you into captivity; 
@@ -63,13 +63,13 @@ I will pursue after them with the sword, with the famine, and with the pestilenc
 because they have not listened to my words," says Yahweh, "with which I sent to them my servants the prophets, rising up early and sending them; but you would not hear," says Yahweh. 
 
 ###### v20 
-Hear therefore Yahweh's word, all you captives, whom I have sent away from Jerusalem to Babylon. 
+Hear therefore Yahweh's word, all you captives, whom I have sent away from Jerusalem to [[Babylon]]. 
 
 ###### v21 
-Yahweh of Armies, the God of Israel, says concerning Ahab the son of Kolaiah, and concerning Zedekiah the son of Maaseiah, who prophesy a lie to you in my name: "Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon; and he will kill them before your eyes. 
+Yahweh of Armies, the God of Israel, says concerning Ahab the son of Kolaiah, and concerning Zedekiah the son of Maaseiah, who prophesy a lie to you in my name: "Behold, I will deliver them into the hand of Nebuchadnezzar king of [[Babylon]]; and he will kill them before your eyes. 
 
 ###### v22 
-A curse will be taken up about them by all the captives of Judah who are in Babylon, saying, 'Yahweh make you like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;' 
+A curse will be taken up about them by all the captives of Judah who are in [[Babylon]], saying, 'Yahweh make you like Zedekiah and like Ahab, whom the king of [[Babylon]] roasted in the fire;' 
 
 ###### v23 
 because they have done foolish things in Israel, and have committed adultery with their neighbors' wives, and have spoken words in my name falsely, which I didn't command them. I am he who knows, and am witness," says Yahweh. 
@@ -87,7 +87,7 @@ Concerning Shemaiah the Nehelamite you shall speak, saying,
 Now therefore, why have you not rebuked Jeremiah of Anathoth, who makes himself a prophet to you, 
 
 ###### v28 
-because he has sent to us in Babylon, saying, The captivity is long. Build houses, and dwell in them. Plant gardens, and eat their fruit?"'" 
+because he has sent to us in [[Babylon]], saying, The captivity is long. Build houses, and dwell in them. Plant gardens, and eat their fruit?"'" 
 
 ###### v29 
 Zephaniah the priest read this letter in the hearing of Jeremiah the prophet. 

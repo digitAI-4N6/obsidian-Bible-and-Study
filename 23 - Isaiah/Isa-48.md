@@ -45,7 +45,7 @@ For my own sake, for my own sake, I will do it; for how would my name be profane
 Yes, my hand has laid the foundation of the earth, and my right hand has spread out the heavens. when I call to them, they stand up together. 
 
 ###### v14 
-"Assemble yourselves, all of you, and hear! Who among them has declared these things? He whom Yahweh loves will do what he likes to Babylon, and his arm will be against the Chaldeans. 
+"Assemble yourselves, all of you, and hear! Who among them has declared these things? He whom Yahweh loves will do what he likes to [[Babylon]], and his arm will be against the Chaldeans. 
 
 ###### v15 
 I, even I, have spoken. Yes, I have called him. I have brought him and he shall make his way prosperous. 
@@ -63,7 +63,7 @@ Oh that you had listened to my commandments! Then your peace would have been lik
 Your offspring also would have been as the sand and the descendants of your body like its grains. His name would not be cut off nor destroyed from before me." 
 
 ###### v20 
-Leave Babylon! Flee from the Chaldeans! With a voice of singing announce this, tell it even to the end of the earth: say, "Yahweh has redeemed his servant Jacob!" 
+Leave [[Babylon]]! Flee from the Chaldeans! With a voice of singing announce this, tell it even to the end of the earth: say, "Yahweh has redeemed his servant Jacob!" 
 
 ###### v21 
 They didn't thirst when he led them through the deserts. He caused the waters to flow out of the rock for them. He also split the rock and the waters gushed out. 

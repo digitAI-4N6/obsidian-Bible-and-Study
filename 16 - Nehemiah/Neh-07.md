@@ -21,7 +21,7 @@ Now the city was wide and large; but the people were few therein, and the houses
 My God put into my heart to gather together the nobles, and the rulers, and the people, that they might be listed by genealogy. I found the book of the genealogy of those who came up at the first, and I found this written in it: 
 
 ###### v6 
-These are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and to Judah, everyone to his city, 
+These are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of [[Babylon]] had carried away, and who returned to Jerusalem and to Judah, everyone to his city, 
 
 ###### v7 
 who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel: 

@@ -36,7 +36,7 @@ and not to build houses for ourselves to dwell in. We have no vineyard, field, o
 but we have lived in tents, and have obeyed, and done according to all that Jonadab our father commanded us. 
 
 ###### v11 
-But when Nebuchadnezzar king of Babylon came up into the land, we said, 'Come! Let's go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians; so we will dwell at Jerusalem.'" 
+But when Nebuchadnezzar king of [[Babylon]] came up into the land, we said, 'Come! Let's go to Jerusalem for fear of the army of the Chaldeans, and for fear of the army of the Syrians; so we will dwell at Jerusalem.'" 
 
 ###### v12 
 Then Yahweh's word came to Jeremiah, saying, 

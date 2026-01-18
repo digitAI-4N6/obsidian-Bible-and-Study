@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27 - Daniel/Dan-01.md",
+                "file": "01 - Genesis/Gen-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gen-11"
+            }
+          },
+          {
+            "id": "00e3faff6bc97a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Babylon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,8 +52,88 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dan-01"
+              "title": "Babylon"
+            },
+            "group": "a53db1533b7ebd52"
+          },
+          {
+            "id": "bae3e9c56d81c6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Babylon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Babylon"
             }
+          },
+          {
+            "id": "befdf1289c4182d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8e977c22d0d0c3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7076c4ce895d9bb4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Babylon.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Babylon"
+            },
+            "group": "a53db1533b7ebd52"
           }
         ]
       }
@@ -104,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27 - Daniel/Dan-01.md",
+                "file": "Babylon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dan-01"
+              "title": "Backlinks for Babylon"
             }
           },
           {
@@ -123,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27 - Daniel/Dan-01.md",
+                "file": "Babylon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dan-01"
+              "title": "Outgoing links from Babylon"
             }
           },
           {
@@ -166,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27 - Daniel/Dan-01.md",
+                "file": "Babylon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dan-01"
+              "title": "Outline of Babylon"
             }
           }
         ]
@@ -193,28 +297,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "d64de09dc3685bf9",
+  "active": "bae3e9c56d81c6d6",
   "lastOpenFiles": [
-    "nobles.md",
-    "27 - Daniel/Dan-01.md",
-    "royal offspring.md",
-    "children of Israel.md",
-    "eunuchs.md",
-    "23 - Isaiah/Isa-56.md",
-    "master of his eunuchs.md",
-    "Ashpenaz.md",
-    "house of his god.md",
-    "Shinar.md",
-    "vessels of the house of God.md",
-    "The Lord gave.md",
-    "into his hand.md",
-    "king of Judah.md",
-    "Jehoiakim.md",
-    "Jerusalem.md",
+    "Babylon.md",
+    "24 - Jeremiah/Jer-50.md",
+    "12 - 2 Kings/2 Kings-25.md",
+    "24 - Jeremiah/Jer-51.md",
     "king of Babylon.md",
-    "Nebuchadnezzar.md",
-    "reign of.md",
-    "year of.md",
-    "Babylon.md"
+    "eunuchs.md",
+    "27 - Daniel/Dan-01.md",
+    "27 - Daniel/Daniel.md",
+    "besieged it.md",
+    "01 - Genesis/Gen-11.md",
+    "Chaldees.md",
+    "Terah.md",
+    "Ur of the Chaldees.md",
+    "16 - Nehemiah/Neh-09.md",
+    "01 - Genesis/Gen-15.md",
+    "Ur.md",
+    "13 - 1 Chronicles/1 Chron-11.md",
+    "01 - Genesis/Gen-10.md",
+    "Babel.md",
+    "one people.md",
+    "one language.md",
+    "Shinar.md",
+    "01 - Genesis/Gen-14.md",
+    "Zoar.md",
+    "Jehoiakim.md",
+    "no defect.md"
   ]
 }

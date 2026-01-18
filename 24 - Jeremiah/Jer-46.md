@@ -9,7 +9,7 @@
 Yahweh's word which came to Jeremiah the prophet concerning the nations. 
 
 ###### v2 
-Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim the son of Josiah, king of Judah. 
+Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of [[Babylon]] struck in the fourth year of Jehoiakim the son of Josiah, king of Judah. 
 
 ###### v3 
 "Prepare the buckler and shield, and draw near to battle! 
@@ -42,7 +42,7 @@ Go up into Gilead, and take balm, virgin daughter of Egypt. You use many medicin
 The nations have heard of your shame, and the earth is full of your cry; for the mighty man has stumbled against the mighty, they both fall together." 
 
 ###### v13 
-The word that Yahweh spoke to Jeremiah the prophet, how that Nebuchadnezzar king of Babylon should come and strike the land of Egypt. 
+The word that Yahweh spoke to Jeremiah the prophet, how that Nebuchadnezzar king of [[Babylon]] should come and strike the land of Egypt. 
 
 ###### v14 
 "Declare in Egypt, publish in Migdol, and publish in Memphis and in Tahpanhes: say, 'Stand up, and prepare; for the sword has devoured around you.' 
@@ -81,7 +81,7 @@ The daughter of Egypt will be disappointed; she will be delivered into the hand 
 Yahweh of Armies, the God of Israel, says: "Behold, I will punish Amon of No, and Pharaoh, and Egypt, with her gods, and her kings; even Pharaoh, and those who trust in him. 
 
 ###### v26 
-I will deliver them into the hand of those who seek their lives, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants. Afterwards it will be inhabited, as in the days of old," says Yahweh. 
+I will deliver them into the hand of those who seek their lives, and into the hand of Nebuchadnezzar king of [[Babylon]], and into the hand of his servants. Afterwards it will be inhabited, as in the days of old," says Yahweh. 
 
 ###### v27 
 "But don't you be afraid, Jacob my servant. Don't be dismayed, Israel; for, behold, I will save you from afar, and your offspring from the land of their captivity. Jacob will return, and will be quiet and at ease. No one will make him afraid. 

@@ -24,7 +24,7 @@ Yahweh brought him outside, and said, "Look now toward the sky, and count the st
 He believed in Yahweh, who credited it to him for righteousness. 
 
 ###### v7 
-He said to Abram, "I am Yahweh who brought you out of Ur of the Chaldees, to give you this land to inherit it." 
+He said to Abram, "I am Yahweh who brought you out of [[Ur of the Chaldees]], to give you this land to inherit it." 
 
 ###### v8 
 He said, "Lord Yahweh, how will I know that I will inherit it?" 

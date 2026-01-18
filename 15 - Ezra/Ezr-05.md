@@ -39,13 +39,13 @@ We asked them their names also, to inform you that we might write the names of t
 Thus they returned us answer, saying, "We are the servants of the God of heaven and earth, and are building the house that was built these many years ago, which a great king of Israel built and finished. 
 
 ###### v12 
-But after our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon. 
+But after our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar king of [[Babylon]], the Chaldean, who destroyed this house, and carried the people away into [[Babylon]]. 
 
 ###### v13 
-But in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God. 
+But in the first year of Cyrus king of [[Babylon]], Cyrus the king made a decree to build this house of God. 
 
 ###### v14 
-The gold and silver vessels of God's house, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought into the temple of Babylon, those Cyrus the king also took out of the temple of Babylon, and they were delivered to one whose name was Sheshbazzar, whom he had made governor. 
+The gold and silver vessels of God's house, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought into the temple of [[Babylon]], those Cyrus the king also took out of the temple of [[Babylon]], and they were delivered to one whose name was Sheshbazzar, whom he had made governor. 
 
 ###### v15 
 He said to him, 'Take these vessels, go, put them in the temple that is in Jerusalem, and let God's house be built in its place.' 
@@ -54,7 +54,7 @@ He said to him, 'Take these vessels, go, put them in the temple that is in Jerus
 Then the same Sheshbazzar came and laid the foundations of God's house which is in Jerusalem. Since that time even until now it has been being built, and yet it is not completed. 
 
 ###### v17 
-Now therefore, if it seems good to the king, let a search be made in the king's treasure house, which is there at Babylon, whether it is so, that a decree was made of Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter."
+Now therefore, if it seems good to the king, let a search be made in the king's treasure house, which is there at [[Babylon]], whether it is so, that a decree was made of Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter."
 
 ***
 [[Ezr-04|← Ezra 04]] | [[Ezra]] | [[Ezr-06|Ezra 06 →]]

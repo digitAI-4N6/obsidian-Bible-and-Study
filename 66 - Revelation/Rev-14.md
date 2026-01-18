@@ -27,7 +27,7 @@ I saw an angel flying in mid heaven, having an eternal Good News to proclaim to 
 He said with a loud voice, "Fear the Lord, and give him glory; for the hour of his judgment has come. Worship him who made the heaven, the earth, the sea, and the springs of waters!" 
 
 ###### v8 
-Another, a second angel, followed, saying, "Babylon the great has fallen, which has made all the nations to drink of the wine of the wrath of her sexual immorality." 
+Another, a second angel, followed, saying, "[[Babylon]] the great has fallen, which has made all the nations to drink of the wine of the wrath of her sexual immorality." 
 
 ###### v9 
 Another angel, a third, followed them, saying with a great voice, "If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand, 

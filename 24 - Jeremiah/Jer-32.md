@@ -9,16 +9,16 @@
 This is the word that came to Jeremiah from Yahweh in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar. 
 
 ###### v2 
-Now at that time the king of Babylon's army was besieging Jerusalem. Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah's house. 
+Now at that time the king of [[Babylon]]'s army was besieging Jerusalem. Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah's house. 
 
 ###### v3 
-For Zedekiah king of Judah had shut him up, saying, "Why do you prophesy, and say, 'Yahweh says, "Behold, I will give this city into the hand of the king of Babylon, and he will take it; 
+For Zedekiah king of Judah had shut him up, saying, "Why do you prophesy, and say, 'Yahweh says, "Behold, I will give this city into the hand of the king of [[Babylon]], and he will take it; 
 
 ###### v4 
-and Zedekiah king of Judah won't escape out of the hand of the Chaldeans, but will surely be delivered into the hand of the king of Babylon, and will speak with him mouth to mouth, and his eyes will see his eyes; 
+and Zedekiah king of Judah won't escape out of the hand of the Chaldeans, but will surely be delivered into the hand of the king of [[Babylon]], and will speak with him mouth to mouth, and his eyes will see his eyes; 
 
 ###### v5 
-and he will bring Zedekiah to Babylon, and he will be there until I visit him," says Yahweh: "though you fight with the Chaldeans, you will not prosper?"'" 
+and he will bring Zedekiah to [[Babylon]], and he will be there until I visit him," says Yahweh: "though you fight with the Chaldeans, you will not prosper?"'" 
 
 ###### v6 
 Jeremiah said, "Yahweh's word came to me, saying, 
@@ -87,7 +87,7 @@ Then Yahweh's word came to Jeremiah, saying,
 "Behold, I am Yahweh, the God of all flesh. Is there anything too hard for me? 
 
 ###### v28 
-Therefore Yahweh says: Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadnezzar king of Babylon, and he will take it. 
+Therefore Yahweh says: Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadnezzar king of [[Babylon]], and he will take it. 
 
 ###### v29 
 The Chaldeans, who fight against this city, will come and set this city on fire, and burn it with the houses on whose roofs they have offered incense to Baal, and poured out drink offerings to other gods, to provoke me to anger. 
@@ -111,7 +111,7 @@ But they set their abominations in the house which is called by my name, to defi
 They built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through fire to Molech, which I didn't command them. It didn't even come into my mind, that they should do this abomination, to cause Judah to sin." 
 
 ###### v36 
-Now therefore Yahweh, the God of Israel, says concerning this city, about which you say, "It is given into the hand of the king of Babylon by the sword, by the famine, and by the pestilence:" 
+Now therefore Yahweh, the God of Israel, says concerning this city, about which you say, "It is given into the hand of the king of [[Babylon]] by the sword, by the famine, and by the pestilence:" 
 
 ###### v37 
 "Behold, I will gather them out of all the countries where I have driven them in my anger, and in my wrath, and in great indignation; and I will bring them again to this place. I will cause them to dwell safely. 

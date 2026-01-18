@@ -6,7 +6,7 @@
 
 
 ###### v1 
-The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (this was the first year of Nebuchadnezzar king of Babylon), 
+The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (this was the first year of Nebuchadnezzar king of [[Babylon]]), 
 
 ###### v2 
 which Jeremiah the prophet spoke to all the people of Judah, and to all the inhabitants of Jerusalem: 
@@ -30,16 +30,16 @@ Don't go after other gods to serve them or worship them, and don't provoke me to
 Therefore Yahweh of Armies says: "Because you have not heard my words, 
 
 ###### v9 
-behold, I will send and take all the families of the north," says Yahweh, "and I will send to Nebuchadnezzar the king of Babylon, my servant, and will bring them against this land, and against its inhabitants, and against all these nations around. I will utterly destroy them, and make them an astonishment, and a hissing, and perpetual desolations. 
+behold, I will send and take all the families of the north," says Yahweh, "and I will send to Nebuchadnezzar the king of [[Babylon]], my servant, and will bring them against this land, and against its inhabitants, and against all these nations around. I will utterly destroy them, and make them an astonishment, and a hissing, and perpetual desolations. 
 
 ###### v10 
 Moreover I will take from them the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones, and the light of the lamp. 
 
 ###### v11 
-This whole land will be a desolation, and an astonishment; and these nations will serve the king of Babylon seventy years. 
+This whole land will be a desolation, and an astonishment; and these nations will serve the king of [[Babylon]] seventy years. 
 
 ###### v12 
-"It will happen, when seventy years are accomplished, that I will punish the king of Babylon and that nation," says Yahweh, "for their iniquity. I will make the land of the Chaldeans desolate forever. 
+"It will happen, when seventy years are accomplished, that I will punish the king of [[Babylon]] and that nation," says Yahweh, "for their iniquity. I will make the land of the Chaldeans desolate forever. 
 
 ###### v13 
 I will bring on that land all my words which I have pronounced against it, even all that is written in this book, which Jeremiah has prophesied against all the nations. 

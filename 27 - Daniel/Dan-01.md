@@ -6,7 +6,7 @@
 
 
 ###### v1 
-In the third [[year of]] the [[reign of]] [[Jehoiakim]] [[king of Judah]], [[Nebuchadnezzar]] [[king of Babylon]] came to [[Jerusalem]] and besieged it. 
+In the third [[year of]] the [[reign of]] [[Jehoiakim]] [[king of Judah]], [[Nebuchadnezzar]] [[king of Babylon]] came to [[Jerusalem]] and [[besieged]] it. 
 
 ###### v2 
 The Lord gave [[Jehoiakim]] [[king of Judah]] [[into his hand]], with part of the [[vessels of the house of God]]; and he carried them into the land of [[Shinar]] to the [[house of his god]]. He brought the vessels into the treasure [[house of his god]]. 
@@ -15,7 +15,7 @@ The Lord gave [[Jehoiakim]] [[king of Judah]] [[into his hand]], with part of th
 The king spoke to [[Ashpenaz]] the master of his [[eunuchs]], that he should bring in some of the [[children of Israel]], even of the [[royal offspring]] and of the [[nobles]]; 
 
 ###### v4 
-youths in whom was no defect, but well-favored, and skillful in all wisdom, and endowed with knowledge, and understanding science, and who had the ability to stand in the king's palace; and that he should teach them the learning and the language of the Chaldeans. 
+youths in whom was [[no defect]], but well-favored, and skillful in all wisdom, and endowed with knowledge, and understanding science, and who had the ability to stand in the king's palace; and that he should teach them the learning and the language of the [[Chaldeans]]. 
 
 ###### v5 
 The king appointed for them a daily portion of the king's dainties, and of the wine which he drank, and that they should be nourished three years; that at its end they should stand before the king. 

@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Nebuchadnezzar the king made an image of gold, whose height was sixty cubits, and its width six cubits. He set it up in the plain of Dura, in the province of Babylon. 
+Nebuchadnezzar the king made an image of gold, whose height was sixty cubits, and its width six cubits. He set it up in the plain of Dura, in the province of [[Babylon]]. 
 
 ###### v2 
 Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up. 
@@ -39,7 +39,7 @@ You, O king, have made a decree that every man who hears the sound of the horn, 
 and whoever doesn't fall down and worship shall be cast into the middle of a burning fiery furnace. 
 
 ###### v12 
-There are certain Jews whom you have appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abednego. These men, O king, have not respected you. They don't serve your gods, and don't worship the golden image which you have set up." 
+There are certain Jews whom you have appointed over the affairs of the province of [[Babylon]]: Shadrach, Meshach, and Abednego. These men, O king, have not respected you. They don't serve your gods, and don't worship the golden image which you have set up." 
 
 ###### v13 
 Then Nebuchadnezzar in rage and fury commanded that Shadrach, Meshach, and Abednego be brought. Then these men were brought before the king. 
@@ -93,7 +93,7 @@ Nebuchadnezzar spoke and said, "Blessed be the God of Shadrach, Meshach, and Abe
 Therefore I make a decree, that every people, nation, and language, which speak anything evil against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill; because there is no other god who is able to deliver like this." 
 
 ###### v30 
-Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.
+Then the king promoted Shadrach, Meshach, and Abednego in the province of [[Babylon]].
 
 ***
 [[Dan-02|← Daniel 02]] | [[Daniel]] | [[Dan-04|Daniel 04 →]]

@@ -6,7 +6,7 @@
 
 
 ###### v1 
-"Come down and sit in the dust, virgin daughter of Babylon. Sit on the ground without a throne, daughter of the Chaldeans. For you will no longer be called tender and delicate. 
+"Come down and sit in the dust, virgin daughter of [[Babylon]]. Sit on the ground without a throne, daughter of the Chaldeans. For you will no longer be called tender and delicate. 
 
 ###### v2 
 Take the millstones and grind flour. Remove your veil, lift up your skirt, uncover your legs, and wade through the rivers. 

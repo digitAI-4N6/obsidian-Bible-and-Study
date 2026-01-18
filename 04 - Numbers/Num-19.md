@@ -9,7 +9,7 @@
 Yahweh spoke to Moses and to Aaron, saying, 
 
 ###### v2 
-"This is the statute of the law which Yahweh has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is no defect, and which was never yoked. 
+"This is the statute of the law which Yahweh has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is [[no defect]], and which was never yoked. 
 
 ###### v3 
 You shall give her to Eleazar the priest, and he shall bring her outside of the camp, and one shall kill her before his face. 

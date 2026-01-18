@@ -21,10 +21,10 @@ The king of Egypt made Eliakim his brother king over Judah and Jerusalem, and ch
 Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. He did that which was evil in Yahweh his God's sight. 
 
 ###### v6 
-Nebuchadnezzar king of Babylon came up against him, and bound him in fetters to carry him to Babylon. 
+Nebuchadnezzar king of [[Babylon]] came up against him, and bound him in fetters to carry him to [[Babylon]]. 
 
 ###### v7 
-Nebuchadnezzar also carried some of the vessels of Yahweh's house to Babylon, and put them in his temple at Babylon. 
+Nebuchadnezzar also carried some of the vessels of Yahweh's house to [[Babylon]], and put them in his temple at [[Babylon]]. 
 
 ###### v8 
 Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah; and Jehoiachin his son reigned in his place. 
@@ -33,7 +33,7 @@ Now the rest of the acts of Jehoiakim, and his abominations which he did, and th
 Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem. He did that which was evil in Yahweh's sight. 
 
 ###### v10 
-At the return of the year, king Nebuchadnezzar sent and brought him to Babylon, with the valuable vessels of Yahweh's house, and made Zedekiah his brother king over Judah and Jerusalem. 
+At the return of the year, king Nebuchadnezzar sent and brought him to [[Babylon]], with the valuable vessels of Yahweh's house, and made Zedekiah his brother king over Judah and Jerusalem. 
 
 ###### v11 
 Zedekiah was twenty-one years old when he began to reign, and he reigned eleven years in Jerusalem. 
@@ -57,13 +57,13 @@ but they mocked the messengers of God, and despised his words, and scoffed at hi
 Therefore he brought on them the king of the Chaldeans, who killed their young men with the sword in the house of their sanctuary, and had no compassion on young man or virgin, old man or gray-headed. He gave them all into his hand. 
 
 ###### v18 
-All the vessels of God's house, great and small, and the treasures of Yahweh's house, and the treasures of the king, and of his princes, all these he brought to Babylon. 
+All the vessels of God's house, great and small, and the treasures of Yahweh's house, and the treasures of the king, and of his princes, all these he brought to [[Babylon]]. 
 
 ###### v19 
 They burned God's house, and broke down the wall of Jerusalem, and burned all its palaces with fire, and destroyed all of its valuable vessels. 
 
 ###### v20 
-He carried those who had escaped from the sword away to Babylon, and they were servants to him and his sons until the reign of the kingdom of Persia, 
+He carried those who had escaped from the sword away to [[Babylon]], and they were servants to him and his sons until the reign of the kingdom of Persia, 
 
 ###### v21 
 to fulfill Yahweh's word by Jeremiah's mouth, until the land had enjoyed its Sabbaths. As long as it lay desolate, it kept Sabbath, to fulfill seventy years. 

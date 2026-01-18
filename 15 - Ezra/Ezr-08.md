@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Now these are the heads of their fathers' households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king: 
+Now these are the heads of their fathers' households, and this is the genealogy of those who went up with me from [[Babylon]], in the reign of Artaxerxes the king: 
 
 ###### v2 
 Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. 

@@ -33,7 +33,7 @@ Cush became the father of Nimrod. He began to be a mighty one in the earth.
 He was a mighty hunter before Yahweh. Therefore it is said, "like Nimrod, a mighty hunter before Yahweh". 
 
 ###### v10 
-The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of [[Shinar]]. 
+The beginning of his kingdom was [[Babel]], Erech, Accad, and Calneh, in the land of [[Shinar]]. 
 
 ###### v11 
 Out of that land he went into Assyria, and built Nineveh, Rehoboth Ir, Calah, 

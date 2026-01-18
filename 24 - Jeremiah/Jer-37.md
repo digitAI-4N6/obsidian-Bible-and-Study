@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Zedekiah the son of Josiah reigned as king, instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of Judah. 
+Zedekiah the son of Josiah reigned as king, instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of [[Babylon]] made king in the land of Judah. 
 
 ###### v2 
 But neither he, nor his servants, nor the people of the land, listened to Yahweh's words, which he spoke by the prophet Jeremiah. 
@@ -54,13 +54,13 @@ The princes were angry with Jeremiah, and struck him, and put him in prison in t
 When Jeremiah had come into the dungeon house, and into the cells, and Jeremiah had remained there many days, 
 
 ###### v17 
-then Zedekiah the king sent, and had him brought out. The king asked him secretly in his house, "Is there any word from Yahweh?" Jeremiah said, "There is." He also said, "You will be delivered into the hand of the king of Babylon." 
+then Zedekiah the king sent, and had him brought out. The king asked him secretly in his house, "Is there any word from Yahweh?" Jeremiah said, "There is." He also said, "You will be delivered into the hand of the king of [[Babylon]]." 
 
 ###### v18 
 Moreover Jeremiah said to king Zedekiah, "How have I sinned against you, against your servants, or against this people, that you have put me in prison? 
 
 ###### v19 
-Now where are your prophets who prophesied to you, saying, 'The king of Babylon will not come against you, nor against this land?' 
+Now where are your prophets who prophesied to you, saying, 'The king of [[Babylon]] will not come against you, nor against this land?' 
 
 ###### v20 
 Now please hear, my lord the king: please let my supplication be presented before you, that you not cause me to return to the house of Jonathan the scribe, lest I die there." 

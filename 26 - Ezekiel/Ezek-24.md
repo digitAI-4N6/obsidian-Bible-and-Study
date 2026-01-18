@@ -9,7 +9,7 @@
 Again, in the ninth year, in the tenth month, in the tenth day of the month, Yahweh's word came to me, saying, 
 
 ###### v2 
-"Son of man, write the name of the day, this same day. The king of Babylon drew close to Jerusalem this same day. 
+"Son of man, write the name of the day, this same day. The king of [[Babylon]] drew close to Jerusalem this same day. 
 
 ###### v3 
 Utter a parable to the rebellious house, and tell them, 'The Lord Yahweh says, "Put the cauldron on the fire. Put it on, and also pour water into it. 

@@ -6,7 +6,7 @@
 
 
 ###### v1 
-In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head on his bed. Then he wrote the dream and told the sum of the matters. 
+In the first year of Belshazzar king of [[Babylon]], Daniel had a dream and visions of his head on his bed. Then he wrote the dream and told the sum of the matters. 
 
 ###### v2 
 Daniel spoke and said, "I saw in my vision by night, and, behold, the four winds of the sky broke out on the great sea. 

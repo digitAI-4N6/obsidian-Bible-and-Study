@@ -9,7 +9,7 @@
 Now in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring and one of the chief officers of the king, and ten men with him, came to Gedaliah the son of Ahikam to Mizpah; and there they ate bread together in Mizpah. 
 
 ###### v2 
-Then Ishmael the son of Nethaniah arose, and the ten men who were with him, and struck Gedaliah the son of Ahikam the son of Shaphan with the sword and killed him, whom the king of Babylon had made governor over the land. 
+Then Ishmael the son of Nethaniah arose, and the ten men who were with him, and struck Gedaliah the son of Ahikam the son of Shaphan with the sword and killed him, whom the king of [[Babylon]] had made governor over the land. 
 
 ###### v3 
 Ishmael also killed all the Jews who were with him, with Gedaliah, at Mizpah, and the Chaldeans who were found there, the men of war. 
@@ -57,7 +57,7 @@ Then Johanan the son of Kareah and all the captains of the forces who were with 
 They departed and lived in Geruth Chimham, which is by Bethlehem, to go to enter into Egypt 
 
 ###### v18 
-because of the Chaldeans; for they were afraid of them, because Ishmael the son of Nethaniah had killed Gedaliah the son of Ahikam, whom the king of Babylon made governor over the land.
+because of the Chaldeans; for they were afraid of them, because Ishmael the son of Nethaniah had killed Gedaliah the son of Ahikam, whom the king of [[Babylon]] made governor over the land.
 
 ***
 [[Jer-40|← Jeremiah 40]] | [[Jeremiah]] | [[Jer-42|Jeremiah 42 →]]

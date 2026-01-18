@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Now these are the children of the province, who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city; 
+Now these are the children of the province, who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of [[Babylon]] had carried away to [[Babylon]], and who returned to Jerusalem and Judah, everyone to his city; 
 
 ###### v2 
 who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel: 

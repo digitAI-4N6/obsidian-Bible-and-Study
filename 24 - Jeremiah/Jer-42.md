@@ -36,7 +36,7 @@ and said to them, "Yahweh, the God of Israel, to whom you sent me to present you
 'If you will still live in this land, then I will build you, and not pull you down, and I will plant you, and not pluck you up; for I grieve over the distress that I have brought on you. 
 
 ###### v11 
-Don't be afraid of the king of Babylon, of whom you are afraid. Don't be afraid of him,' says Yahweh: 'for I am with you to save you, and to deliver you from his hand. 
+Don't be afraid of the king of [[Babylon]], of whom you are afraid. Don't be afraid of him,' says Yahweh: 'for I am with you to save you, and to deliver you from his hand. 
 
 ###### v12 
 I will grant you mercy, that he may have mercy on you, and cause you to return to your own land. 

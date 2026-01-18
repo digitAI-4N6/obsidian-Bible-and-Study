@@ -36,7 +36,7 @@ This is the number of them: thirty platters of gold, one thousand platters of si
 thirty bowls of gold, four hundred ten silver bowls of a second sort, and one thousand other vessels. 
 
 ###### v11 
-All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem.
+All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from [[Babylon]] to Jerusalem.
 
 ***
 [[Ezra]] | [[Ezr-02|Ezra 02 →]]

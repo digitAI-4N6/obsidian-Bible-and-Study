@@ -87,13 +87,13 @@ Therefore her young men will fall in her streets, and all the men of war will be
 "I will kindle a fire in the wall of Damascus, and it will devour the palaces of Ben Hadad." 
 
 ###### v28 
-Of Kedar, and of the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck. Yahweh says: "Arise, go up to Kedar, and destroy the children of the east. 
+Of Kedar, and of the kingdoms of Hazor, which Nebuchadnezzar king of [[Babylon]] struck. Yahweh says: "Arise, go up to Kedar, and destroy the children of the east. 
 
 ###### v29 
 They will take their tents and their flocks. they will carry away for themselves their curtains, all their vessels, and their camels; and they will cry to them, 'Terror on every side!' 
 
 ###### v30 
-Flee! Wander far off! Dwell in the depths, you inhabitants of Hazor," says Yahweh; "for Nebuchadnezzar king of Babylon has taken counsel against you, and has conceived a purpose against you. 
+Flee! Wander far off! Dwell in the depths, you inhabitants of Hazor," says Yahweh; "for Nebuchadnezzar king of [[Babylon]] has taken counsel against you, and has conceived a purpose against you. 
 
 ###### v31 
 Arise! Go up to a nation that is at ease, that dwells without care," says Yahweh; "that has neither gates nor bars, that dwells alone. 

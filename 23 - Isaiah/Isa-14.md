@@ -15,7 +15,7 @@ The peoples will take them, and bring them to their place. The house of Israel w
 It will happen in the day that Yahweh will give you rest from your sorrow, from your trouble, and from the hard service in which you were made to serve, 
 
 ###### v4 
-that you will take up this parable against the king of Babylon, and say, "How the oppressor has ceased! The golden city has ceased!" 
+that you will take up this parable against the king of [[Babylon]], and say, "How the oppressor has ceased! The golden city has ceased!" 
 
 ###### v5 
 Yahweh has broken the staff of the wicked, the scepter of the rulers, 
@@ -69,7 +69,7 @@ You will not join them in burial, because you have destroyed your land. You have
 Prepare for slaughter of his children because of the iniquity of their fathers, that they not rise up and possess the earth, and fill the surface of the world with cities. 
 
 ###### v22 
-"I will rise up against them," says Yahweh of Armies, "and cut off from Babylon name and remnant, and son and son's son," says Yahweh. 
+"I will rise up against them," says Yahweh of Armies, "and cut off from [[Babylon]] name and remnant, and son and son's son," says Yahweh. 
 
 ###### v23 
 "I will also make it a possession for the porcupine, and pools of water. I will sweep it with the broom of destruction," says Yahweh of Armies. 

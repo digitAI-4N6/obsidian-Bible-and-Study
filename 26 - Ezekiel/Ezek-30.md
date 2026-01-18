@@ -33,7 +33,7 @@ They will know that I am Yahweh when I have set a fire in Egypt, and all her hel
 "'"In that day messengers will go out from before me in ships to make the careless Ethiopians afraid. There will be anguish on them, as in the day of Egypt; for, behold, it comes." 
 
 ###### v10 
-"'The Lord Yahweh says: "I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of Babylon. 
+"'The Lord Yahweh says: "I will also make the multitude of Egypt to cease, by the hand of Nebuchadnezzar king of [[Babylon]]. 
 
 ###### v11 
 He and his people with him, the terrible of the nations, will be brought in to destroy the land. They will draw their swords against Egypt, and fill the land with the slain. 
@@ -75,10 +75,10 @@ Therefore the Lord Yahweh says: 'Behold, I am against Pharaoh king of Egypt, and
 I will scatter the Egyptians among the nations, and will disperse them through the countries. 
 
 ###### v24 
-I will strengthen the arms of the king of Babylon, and put my sword in his hand; but I will break the arms of Pharaoh, and he will groan before the king of Babylon with the groaning of a mortally wounded man. 
+I will strengthen the arms of the king of [[Babylon]], and put my sword in his hand; but I will break the arms of Pharaoh, and he will groan before the king of [[Babylon]] with the groaning of a mortally wounded man. 
 
 ###### v25 
-I will hold up the arms of the king of Babylon; and the arms of Pharaoh will fall down. Then they will know that I am Yahweh, when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt. 
+I will hold up the arms of the king of [[Babylon]]; and the arms of Pharaoh will fall down. Then they will know that I am Yahweh, when I put my sword into the hand of the king of [[Babylon]], and he stretches it out on the land of Egypt. 
 
 ###### v26 
 I will scatter the Egyptians among the nations, and disperse them through the countries. Then they will know that I am Yahweh.'"

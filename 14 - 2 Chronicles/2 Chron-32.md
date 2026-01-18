@@ -96,7 +96,7 @@ Moreover he provided for himself cities, and possessions of flocks and herds in 
 This same Hezekiah also stopped the upper spring of the waters of Gihon, and brought them straight down on the west side of David's city. Hezekiah prospered in all his works. 
 
 ###### v31 
-However concerning the ambassadors of the princes of Babylon, who sent to him to inquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart. 
+However concerning the ambassadors of the princes of [[Babylon]], who sent to him to inquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart. 
 
 ###### v32 
 Now the rest of the acts of Hezekiah, and his good deeds, behold, they are written in the vision of Isaiah the prophet the son of Amoz, in the book of the kings of Judah and Israel. 

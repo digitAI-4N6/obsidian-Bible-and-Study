@@ -24,7 +24,7 @@ She will be a place for the spreading of nets in the middle of the sea; for I ha
 Her daughters who are in the field will be slain with the sword. Then they will know that I am Yahweh.' 
 
 ###### v7 
-"For the Lord Yahweh says: 'Behold, I will bring on Tyre Nebuchadnezzar king of Babylon, king of kings, from the north, with horses, with chariots, with horsemen, and an army with many people. 
+"For the Lord Yahweh says: 'Behold, I will bring on Tyre Nebuchadnezzar king of [[Babylon]], king of kings, from the north, with horses, with chariots, with horsemen, and an army with many people. 
 
 ###### v8 
 He will kill your daughters in the field with the sword. He will make forts against you, cast up a mound against you, and raise up the buckler against you. 

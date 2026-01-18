@@ -60,13 +60,13 @@ I will also strike my hands together, and I will cause my wrath to rest. I, Yahw
 Yahweh's word came to me again, saying, 
 
 ###### v19 
-"Also, you son of man, appoint two ways, that the sword of the king of Babylon may come. They both will come out of one land, and mark out a place. Mark it out at the head of the way to the city. 
+"Also, you son of man, appoint two ways, that the sword of the king of [[Babylon]] may come. They both will come out of one land, and mark out a place. Mark it out at the head of the way to the city. 
 
 ###### v20 
 You shall appoint a way for the sword to come to Rabbah of the children of Ammon, and to Judah in Jerusalem the fortified. 
 
 ###### v21 
-For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination. He shook the arrows back and forth. He consulted the teraphim. He looked in the liver. 
+For the king of [[Babylon]] stood at the parting of the way, at the head of the two ways, to use divination. He shook the arrows back and forth. He consulted the teraphim. He looked in the liver. 
 
 ###### v22 
 In his right hand was the lot for Jerusalem, to set battering rams, to open the mouth in the slaughter, to lift up the voice with shouting, to set battering rams against the gates, to cast up mounds, and to build forts. 

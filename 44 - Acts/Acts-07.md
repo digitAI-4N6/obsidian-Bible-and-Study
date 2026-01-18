@@ -132,7 +132,7 @@ They made a calf in those days, and brought a sacrifice to the idol, and rejoice
 But God turned, and gave them up to serve the army of the sky, as it is written in the book of the prophets, 'Did you offer to me slain animals and sacrifices forty years in the wilderness, O house of Israel? 
 
 ###### v43 
-You took up the tabernacle of Moloch, the star of your god Rephan, the figures which you made to worship. I will carry you away beyond Babylon.' 
+You took up the tabernacle of Moloch, the star of your god Rephan, the figures which you made to worship. I will carry you away beyond [[Babylon]].' 
 
 ###### v44 
 "Our fathers had the tabernacle of the testimony in the wilderness, even as he who spoke to Moses commanded him to make it according to the pattern that he had seen; 

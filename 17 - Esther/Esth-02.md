@@ -21,7 +21,7 @@ and let the maiden who pleases the king be queen instead of Vashti." The thing p
 There was a certain Jew in the citadel of Susa, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite, 
 
 ###### v6 
-who had been carried away from Jerusalem with the captives who had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away. 
+who had been carried away from Jerusalem with the captives who had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of [[Babylon]] had carried away. 
 
 ###### v7 
 He brought up Hadassah, that is, Esther, his uncle's daughter; for she had neither father nor mother. The maiden was fair and beautiful; and when her father and mother were dead, Mordecai took her for his own daughter. 

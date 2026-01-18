@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Yahweh showed me, and behold, two baskets of figs were set before Yahweh's temple, after Nebuchadnezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to Babylon. 
+Yahweh showed me, and behold, two baskets of figs were set before Yahweh's temple, after Nebuchadnezzar king of [[Babylon]] had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to [[Babylon]]. 
 
 ###### v2 
 One basket had very good figs, like the figs that are first-ripe; and the other basket had very bad figs, which could not be eaten, they were so bad. 

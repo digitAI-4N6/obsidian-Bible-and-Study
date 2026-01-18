@@ -21,7 +21,7 @@ Now before this, Eliashib the priest, who was appointed over the rooms of the ho
 had prepared for him a great room, where before they laid the meal offerings, the frankincense, the vessels, and the tithes of the grain, the new wine, and the oil, which were given by commandment to the Levites, the singers, and the gatekeepers; and the wave offerings for the priests. 
 
 ###### v6 
-But in all this, I was not at Jerusalem; for in the thirty-second year of Artaxerxes king of Babylon I went to the king; and after some days I asked leave of the king, 
+But in all this, I was not at Jerusalem; for in the thirty-second year of Artaxerxes king of [[Babylon]] I went to the king; and after some days I asked leave of the king, 
 
 ###### v7 
 and I came to Jerusalem, and understood the evil that Eliashib had done for Tobiah, in preparing him a room in the courts of God's house. 

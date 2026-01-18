@@ -39,7 +39,7 @@ Yes, behold, being planted, will it prosper? Won't it utterly wither when the ea
 Moreover Yahweh's word came to me, saying, 
 
 ###### v12 
-"Say now to the rebellious house, 'Don't you know what these things mean?' Tell them, 'Behold, the king of Babylon came to Jerusalem, and took its king, and its princes, and brought them to him to Babylon. 
+"Say now to the rebellious house, 'Don't you know what these things mean?' Tell them, 'Behold, the king of [[Babylon]] came to Jerusalem, and took its king, and its princes, and brought them to him to [[Babylon]]. 
 
 ###### v13 
 He took some of the royal offspring, and made a covenant with him. He also brought him under an oath, and took away the mighty of the land; 
@@ -51,7 +51,7 @@ that the kingdom might be brought low, that it might not lift itself up, but tha
 But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and many people. Will he prosper? Will he who does such things escape? Will he break the covenant, and still escape? 
 
 ###### v16 
-"'As I live,' says the Lord Yahweh, 'surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of Babylon he will die. 
+"'As I live,' says the Lord Yahweh, 'surely in the place where the king dwells who made him king, whose oath he despised, and whose covenant he broke, even with him in the middle of [[Babylon]] he will die. 
 
 ###### v17 
 Pharaoh with his mighty army and great company won't help him in the war, when they cast up mounds and build forts, to cut off many persons. 
@@ -63,7 +63,7 @@ For he has despised the oath by breaking the covenant; and behold, he had given 
 "Therefore the Lord Yahweh says: 'As I live, I will surely bring on his own head my oath that he has despised and my covenant that he has broken. 
 
 ###### v20 
-I will spread my net on him, and he will be taken in my snare. I will bring him to Babylon, and will enter into judgment with him there for his trespass that he has trespassed against me. 
+I will spread my net on him, and he will be taken in my snare. I will bring him to [[Babylon]], and will enter into judgment with him there for his trespass that he has trespassed against me. 
 
 ###### v21 
 All his fugitives in all his bands will fall by the sword, and those who remain will be scattered toward every wind. Then you will know that I, Yahweh, have spoken it.' 

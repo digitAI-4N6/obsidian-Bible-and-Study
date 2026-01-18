@@ -45,7 +45,7 @@ I have declared, I have saved, and I have shown, and there was no strange god am
 Yes, since the day was, I am he. There is no one who can deliver out of my hand. I will work, and who can hinder it?" 
 
 ###### v14 
-Yahweh, your Redeemer, the Holy One of Israel says: "For your sake, I have sent to Babylon, and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing. 
+Yahweh, your Redeemer, the Holy One of Israel says: "For your sake, I have sent to [[Babylon]], and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing. 
 
 ###### v15 
 I am Yahweh, your Holy One, the Creator of Israel, your King." 

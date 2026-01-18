@@ -6,7 +6,7 @@
 
 
 ###### v1 
-So all Israel were listed by genealogies; and behold, they are written in the book of the kings of Israel. Judah was carried away captive to Babylon for their disobedience. 
+So all Israel were listed by genealogies; and behold, they are written in the book of the kings of Israel. Judah was carried away captive to [[Babylon]] for their disobedience. 
 
 ###### v2 
 Now the first inhabitants who lived in their possessions in their cities were Israel, the priests, the Levites, and the temple servants. 

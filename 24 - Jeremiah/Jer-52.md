@@ -12,10 +12,10 @@ Zedekiah was twenty-one years old when he began to reign. He reigned eleven year
 He did that which was evil in Yahweh's sight, according to all that Jehoiakim had done. 
 
 ###### v3 
-For through Yahweh's anger this happened in Jerusalem and Judah, until he had cast them out from his presence. Zedekiah rebelled against the king of Babylon. 
+For through Yahweh's anger this happened in Jerusalem and Judah, until he had cast them out from his presence. Zedekiah rebelled against the king of [[Babylon]]. 
 
 ###### v4 
-In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it round about. 
+In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of [[Babylon]] came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it round about. 
 
 ###### v5 
 So the city was besieged to the eleventh year of king Zedekiah. 
@@ -30,16 +30,16 @@ Then a breach was made in the city, and all the men of war fled, and went out of
 but the army of the Chaldeans pursued the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him. 
 
 ###### v9 
-Then they took the king, and carried him up to the king of Babylon to Riblah in the land of Hamath; and he pronounced judgment on him. 
+Then they took the king, and carried him up to the king of [[Babylon]] to Riblah in the land of Hamath; and he pronounced judgment on him. 
 
 ###### v10 
-The king of Babylon killed the sons of Zedekiah before his eyes. He also killed all the princes of Judah in Riblah. 
+The king of [[Babylon]] killed the sons of Zedekiah before his eyes. He also killed all the princes of Judah in Riblah. 
 
 ###### v11 
-He put out the eyes of Zedekiah; and the king of Babylon bound him in fetters, and carried him to Babylon, and put him in prison until the day of his death. 
+He put out the eyes of Zedekiah; and the king of [[Babylon]] bound him in fetters, and carried him to [[Babylon]], and put him in prison until the day of his death. 
 
 ###### v12 
-Now in the fifth month, in the tenth day of the month, which was the nineteenth year of king Nebuchadnezzar, king of Babylon, Nebuzaradan the captain of the guard, who stood before the king of Babylon, came into Jerusalem. 
+Now in the fifth month, in the tenth day of the month, which was the nineteenth year of king Nebuchadnezzar, king of [[Babylon]], Nebuzaradan the captain of the guard, who stood before the king of [[Babylon]], came into Jerusalem. 
 
 ###### v13 
 He burned Yahweh's house, and the king's house; and all the houses of Jerusalem, even every great house, he burned with fire. 
@@ -48,13 +48,13 @@ He burned Yahweh's house, and the king's house; and all the houses of Jerusalem,
 All the army of the Chaldeans, who were with the captain of the guard, broke down all the walls of Jerusalem all around. 
 
 ###### v15 
-Then Nebuzaradan the captain of the guard carried away captive of the poorest of the people, and the residue of the people who were left in the city, and those who fell away, who fell to the king of Babylon, and the residue of the multitude. 
+Then Nebuzaradan the captain of the guard carried away captive of the poorest of the people, and the residue of the people who were left in the city, and those who fell away, who fell to the king of [[Babylon]], and the residue of the multitude. 
 
 ###### v16 
 But Nebuzaradan the captain of the guard left of the poorest of the land to be vineyard keepers and farmers. 
 
 ###### v17 
-The Chaldeans broke the pillars of bronze that were in Yahweh's house, and the bases and the bronze sea that were in Yahweh's house in pieces, and carried all of their bronze to Babylon. 
+The Chaldeans broke the pillars of bronze that were in Yahweh's house, and the bases and the bronze sea that were in Yahweh's house in pieces, and carried all of their bronze to [[Babylon]]. 
 
 ###### v18 
 They also took away the pots, the shovels, the snuffers, the basins, the spoons, and all the vessels of bronze with which they ministered. 
@@ -81,10 +81,10 @@ The captain of the guard took Seraiah the chief priest, and Zephaniah the second
 and out of the city he took an officer who was set over the men of war; and seven men of those who saw the king's face, who were found in the city; and the scribe of the captain of the army, who mustered the people of the land; and sixty men of the people of the land, who were found in the middle of the city. 
 
 ###### v26 
-Nebuzaradan the captain of the guard took them, and brought them to the king of Babylon to Riblah. 
+Nebuzaradan the captain of the guard took them, and brought them to the king of [[Babylon]] to Riblah. 
 
 ###### v27 
-The king of Babylon struck them, and put them to death at Riblah in the land of Hamath. So Judah was carried away captive out of his land. 
+The king of [[Babylon]] struck them, and put them to death at Riblah in the land of Hamath. So Judah was carried away captive out of his land. 
 
 ###### v28 
 This is the number of the people whom Nebuchadnezzar carried away captive: in the seventh year, three thousand twenty-three Jews; 
@@ -96,16 +96,16 @@ in the eighteenth year of Nebuchadnezzar, he carried away captive from Jerusalem
 in the twenty-third year of Nebuchadnezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty-five people: all the people were four thousand six hundred. 
 
 ###### v31 
-In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the twenty-fifth day of the month, Evilmerodach king of Babylon, in the first year of his reign, lifted up the head of Jehoiachin king of Judah, and released him from prison. 
+In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the twenty-fifth day of the month, Evilmerodach king of [[Babylon]], in the first year of his reign, lifted up the head of Jehoiachin king of Judah, and released him from prison. 
 
 ###### v32 
-He spoke kindly to him, and set his throne above the throne of the kings who were with him in Babylon, 
+He spoke kindly to him, and set his throne above the throne of the kings who were with him in [[Babylon]], 
 
 ###### v33 
 and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life. 
 
 ###### v34 
-For his allowance, there was a continual allowance given him by the king of Babylon, every day a portion until the day of his death, all the days of his life.
+For his allowance, there was a continual allowance given him by the king of [[Babylon]], every day a portion until the day of his death, all the days of his life.
 
 ***
 [[Jer-51|← Jeremiah 51]] | [[Jeremiah]]

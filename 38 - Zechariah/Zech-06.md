@@ -33,7 +33,7 @@ Then he called to me, and spoke to me, saying, "Behold, those who go toward the 
 Yahweh's word came to me, saying, 
 
 ###### v10 
-"Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah; and come the same day, and go into the house of Josiah the son of Zephaniah, where they have come from Babylon. 
+"Take of them of the captivity, even of Heldai, of Tobijah, and of Jedaiah; and come the same day, and go into the house of Josiah the son of Zephaniah, where they have come from [[Babylon]]. 
 
 ###### v11 
 Yes, take silver and gold, and make crowns, and set them on the head of Joshua the son of Jehozadak, the high priest; 

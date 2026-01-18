@@ -9,7 +9,7 @@
 After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory. 
 
 ###### v2 
-He cried with a mighty voice, saying, "Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hateful bird! 
+He cried with a mighty voice, saying, "Fallen, fallen is [[Babylon]] the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hateful bird! 
 
 ###### v3 
 For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury." 
@@ -33,7 +33,7 @@ Therefore in one day her plagues will come: death, mourning, and famine; and she
 The kings of the earth who committed sexual immorality and lived wantonly with her will weep and wail over her, when they look at the smoke of her burning, 
 
 ###### v10 
-standing far away for the fear of her torment, saying, 'Woe, woe, the great city, Babylon, the strong city! For your judgment has come in one hour.' 
+standing far away for the fear of her torment, saying, 'Woe, woe, the great city, [[Babylon]], the strong city! For your judgment has come in one hour.' 
 
 ###### v11 
 The merchants of the earth weep and mourn over her, for no one buys their merchandise any more: 
@@ -66,7 +66,7 @@ They cast dust on their heads, and cried, weeping and mourning, saying, 'Woe, wo
 "Rejoice over her, O heaven, you saints, apostles, and prophets; for God has judged your judgment on her." 
 
 ###### v21 
-A mighty angel took up a stone like a great millstone and cast it into the sea, saying, "Thus with violence will Babylon, the great city, be thrown down, and will be found no more at all. 
+A mighty angel took up a stone like a great millstone and cast it into the sea, saying, "Thus with violence will [[Babylon]], the great city, be thrown down, and will be found no more at all. 
 
 ###### v22 
 The voice of harpists, minstrels, flute players, and trumpeters will be heard no more at all in you. No craftsman, of whatever craft, will be found any more at all in you. The sound of a mill will be heard no more at all in you. 

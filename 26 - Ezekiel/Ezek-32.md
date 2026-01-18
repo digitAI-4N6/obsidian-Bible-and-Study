@@ -36,7 +36,7 @@ I will make all the bright lights of the sky dark over you, and set darkness on 
 Yes, I will make many peoples amazed at you, and their kings will be horribly afraid for you, when I brandish my sword before them. They will tremble at every moment, every man for his own life, in the day of your fall." 
 
 ###### v11 
-For the Lord Yahweh says: "The sword of the king of Babylon will come on you. 
+For the Lord Yahweh says: "The sword of the king of [[Babylon]] will come on you. 
 
 ###### v12 
 I will cause your multitude to fall by the swords of the mighty. They are all the ruthless of the nations. They will bring the pride of Egypt to nothing, and all its multitude will be destroyed. 

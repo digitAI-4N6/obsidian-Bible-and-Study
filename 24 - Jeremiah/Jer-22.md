@@ -78,7 +78,7 @@ Inhabitant of Lebanon, who makes your nest in the cedars, how greatly to be piti
 "As I live," says Yahweh, "though Coniah the son of Jehoiakim king of Judah were the signet on my right hand, I would still pluck you from there. 
 
 ###### v25 
-I would give you into the hand of those who seek your life, and into the hand of them of whom you are afraid, even into the hand of Nebuchadnezzar king of Babylon, and into the hand of the Chaldeans. 
+I would give you into the hand of those who seek your life, and into the hand of them of whom you are afraid, even into the hand of Nebuchadnezzar king of [[Babylon]], and into the hand of the Chaldeans. 
 
 ###### v26 
 I will cast you out with your mother who bore you into another country, where you were not born; and there you will die. 

@@ -75,7 +75,7 @@ The children of Israel walked in all the sins of Jeroboam which he did; they did
 until Yahweh removed Israel out of his sight, as he said by all his servants the prophets. So Israel was carried away out of their own land to Assyria to this day. 
 
 ###### v24 
-The king of Assyria brought men from Babylon, from Cuthah, from Avva, and from Hamath and Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel; and they possessed Samaria, and lived in its cities. 
+The king of Assyria brought men from [[Babylon]], from Cuthah, from Avva, and from Hamath and Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel; and they possessed Samaria, and lived in its cities. 
 
 ###### v25 
 So it was, at the beginning of their dwelling there, that they didn't fear Yahweh. Therefore Yahweh sent lions among them, which killed some of them. 
@@ -93,7 +93,7 @@ So one of the priests whom they had carried away from Samaria came and lived in 
 However every nation made gods of their own, and put them in the houses of the high places which the Samaritans had made, every nation in their cities in which they lived. 
 
 ###### v30 
-The men of Babylon made Succoth Benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima, 
+The men of [[Babylon]] made Succoth Benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima, 
 
 ###### v31 
 and the Avvites made Nibhaz and Tartak; and the Sepharvites burned their children in the fire to Adrammelech and Anammelech, the gods of Sepharvaim. 

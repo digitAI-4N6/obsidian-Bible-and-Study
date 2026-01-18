@@ -21,7 +21,7 @@ I, Nebuchadnezzar, was at rest in my house, and flourishing in my palace.
 I saw a dream which made me afraid; and the thoughts on my bed and the visions of my head troubled me. 
 
 ###### v6 
-Therefore I made a decree to bring in all the wise men of Babylon before me, that they might make known to me the interpretation of the dream. 
+Therefore I made a decree to bring in all the wise men of [[Babylon]] before me, that they might make known to me the interpretation of the dream. 
 
 ###### v7 
 Then the magicians, the enchanters, the Chaldeans, and the soothsayers came in; and I told the dream before them; but they didn't make known to me its interpretation. 
@@ -90,10 +90,10 @@ Therefore, O king, let my counsel be acceptable to you, and break off your sins 
 All this came on the king Nebuchadnezzar. 
 
 ###### v29 
-At the end of twelve months he was walking in the royal palace of Babylon. 
+At the end of twelve months he was walking in the royal palace of [[Babylon]]. 
 
 ###### v30 
-The king spoke and said, "Is not this great Babylon, which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?" 
+The king spoke and said, "Is not this great [[Babylon]], which I have built for the royal dwelling place, by the might of my power and for the glory of my majesty?" 
 
 ###### v31 
 While the word was in the king's mouth, a voice came from the sky, saying, "O king Nebuchadnezzar, to you it is spoken: 'The kingdom has departed from you. 

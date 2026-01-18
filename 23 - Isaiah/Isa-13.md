@@ -6,7 +6,7 @@
 
 
 ###### v1 
-The burden of Babylon, which Isaiah the son of Amoz saw. 
+The burden of [[Babylon]], which Isaiah the son of Amoz saw. 
 
 ###### v2 
 Set up a banner on the bare mountain! Lift up your voice to them! Wave your hand, that they may go into the gates of the nobles. 
@@ -60,7 +60,7 @@ Behold, I will stir up the Medes against them, who will not value silver, and as
 Their bows will dash the young men in pieces; and they shall have no pity on the fruit of the womb. Their eyes will not spare children. 
 
 ###### v19 
-Babylon, the glory of kingdoms, the beauty of the Chaldeans' pride, will be like when God overthrew Sodom and Gomorrah. 
+[[Babylon]], the glory of kingdoms, the beauty of the Chaldeans' pride, will be like when God overthrew Sodom and Gomorrah. 
 
 ###### v20 
 It will never be inhabited, neither will it be lived in from generation to generation. The Arabian will not pitch a tent there, neither will shepherds make their flocks lie down there. 

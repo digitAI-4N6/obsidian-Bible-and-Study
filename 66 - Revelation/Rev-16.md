@@ -60,7 +60,7 @@ The seventh poured out his bowl into the air. A loud voice came out of the templ
 There were lightnings, sounds, and thunders; and there was a great earthquake, such as has not happened since there were men on the earth, so great an earthquake, and so mighty. 
 
 ###### v19 
-The great city was divided into three parts, and the cities of the nations fell. Babylon the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of his wrath. 
+The great city was divided into three parts, and the cities of the nations fell. [[Babylon]] the great was remembered in the sight of God, to give to her the cup of the wine of the fierceness of his wrath. 
 
 ###### v20 
 Every island fled away, and the mountains were not found. 

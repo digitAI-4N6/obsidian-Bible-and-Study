@@ -21,7 +21,7 @@ the son of Zerahiah, the son of Uzzi, the son of Bukki,
 the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest-- 
 
 ###### v6 
-this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God's hand on him. 
+this Ezra went up from [[Babylon]]. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God's hand on him. 
 
 ###### v7 
 Some of the children of Israel, including some of the priests, the Levites, the singers, the gatekeepers, and the temple servants went up to Jerusalem in the seventh year of Artaxerxes the king. 
@@ -30,7 +30,7 @@ Some of the children of Israel, including some of the priests, the Levites, the 
 He came to Jerusalem in the fifth month, which was in the seventh year of the king. 
 
 ###### v9 
-For on the first day of the first month he began to go up from Babylon; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. 
+For on the first day of the first month he began to go up from [[Babylon]]; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. 
 
 ###### v10 
 For Ezra had set his heart to seek Yahweh's law, and to do it, and to teach statutes and ordinances in Israel. 
@@ -51,7 +51,7 @@ Because you are sent by the king and his seven counselors, to inquire concerning
 and to carry the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose habitation is in Jerusalem, 
 
 ###### v16 
-and all the silver and gold that you will find in all the province of Babylon, with the free will offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem; 
+and all the silver and gold that you will find in all the province of [[Babylon]], with the free will offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem; 
 
 ###### v17 
 therefore you shall with all diligence buy with this money bulls, rams, lambs, with their meal offerings and their drink offerings, and shall offer them on the altar of the house of your God which is in Jerusalem. 

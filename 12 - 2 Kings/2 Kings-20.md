@@ -39,13 +39,13 @@ Hezekiah answered, "It is a light thing for the shadow to go forward ten steps. 
 Isaiah the prophet cried to Yahweh; and he brought the shadow ten steps backward, by which it had gone down on the sundial of Ahaz. 
 
 ###### v12 
-At that time Berodach Baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah; for he had heard that Hezekiah had been sick. 
+At that time Berodach Baladan the son of Baladan, king of [[Babylon]], sent letters and a present to Hezekiah; for he had heard that Hezekiah had been sick. 
 
 ###### v13 
 Hezekiah listened to them, and showed them all the storehouse of his precious things, the silver, the gold, the spices, and the precious oil, and the house of his armor, and all that was found in his treasures. There was nothing in his house, or in all his dominion, that Hezekiah didn't show them. 
 
 ###### v14 
-Then Isaiah the prophet came to king Hezekiah, and said to him, "What did these men say? From where did they come to you?" Hezekiah said, "They have come from a far country, even from Babylon." 
+Then Isaiah the prophet came to king Hezekiah, and said to him, "What did these men say? From where did they come to you?" Hezekiah said, "They have come from a far country, even from [[Babylon]]." 
 
 ###### v15 
 He said, "What have they seen in your house?" Hezekiah answered, "They have seen all that is in my house. There is nothing among my treasures that I have not shown them." 
@@ -54,10 +54,10 @@ He said, "What have they seen in your house?" Hezekiah answered, "They have seen
 Isaiah said to Hezekiah, "Hear Yahweh's word. 
 
 ###### v17 
-'Behold, the days come that all that is in your house, and that which your fathers have laid up in store to this day, will be carried to Babylon. Nothing will be left,' says Yahweh. 
+'Behold, the days come that all that is in your house, and that which your fathers have laid up in store to this day, will be carried to [[Babylon]]. Nothing will be left,' says Yahweh. 
 
 ###### v18 
-'They will take away some of your sons who will issue from you, whom you will father; and they will be eunuchs in the palace of the king of Babylon.'" 
+'They will take away some of your sons who will issue from you, whom you will father; and they will be eunuchs in the palace of the king of [[Babylon]].'" 
 
 ###### v19 
 Then Hezekiah said to Isaiah, "Yahweh's word which you have spoken is good." He said moreover, "Isn't it so, if peace and truth will be in my days?" 

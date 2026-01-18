@@ -6,7 +6,7 @@
 
 
 ###### v1 
-Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched. 
+Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in [[Babylon]], was searched. 
 
 ###### v2 
 A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record: 
@@ -18,7 +18,7 @@ In the first year of Cyrus the king, Cyrus the king made a decree: Concerning Go
 with three courses of great stones and a course of new timber. Let the expenses be given out of the king's house. 
 
 ###### v5 
-Also let the gold and silver vessels of God's house, which Nebuchadnezzar took out of the temple which is at Jerusalem, and brought to Babylon, be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God's house. 
+Also let the gold and silver vessels of God's house, which Nebuchadnezzar took out of the temple which is at Jerusalem, and brought to [[Babylon]], be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God's house. 
 
 ###### v6 
 Now therefore, Tattenai, governor beyond the River, Shetharbozenai, and your companions the Apharsachites, who are beyond the River, you must stay far from there. 

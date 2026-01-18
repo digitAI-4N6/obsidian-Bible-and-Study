@@ -6,13 +6,13 @@
 
 
 ###### v1 
-The word which came to Jeremiah from Yahweh, when Nebuchadnezzar king of Babylon, with all his army, all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities, saying: 
+The word which came to Jeremiah from Yahweh, when Nebuchadnezzar king of [[Babylon]], with all his army, all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities, saying: 
 
 ###### v2 
-"Yahweh, the God of Israel, says, 'Go, and speak to Zedekiah king of Judah, and tell him, Yahweh says, "Behold, I will give this city into the hand of the king of Babylon and he will burn it with fire. 
+"Yahweh, the God of Israel, says, 'Go, and speak to Zedekiah king of Judah, and tell him, Yahweh says, "Behold, I will give this city into the hand of the king of [[Babylon]] and he will burn it with fire. 
 
 ###### v3 
-You won't escape out of his hand, but will surely be taken and delivered into his hand. Your eyes will see the eyes of the king of Babylon, and he will speak with you mouth to mouth. You will go to Babylon."' 
+You won't escape out of his hand, but will surely be taken and delivered into his hand. Your eyes will see the eyes of the king of [[Babylon]], and he will speak with you mouth to mouth. You will go to [[Babylon]]."' 
 
 ###### v4 
 "Yet hear Yahweh's word, O Zedekiah king of Judah: Yahweh says concerning you, 'You won't die by the sword. 
@@ -24,7 +24,7 @@ You will die in peace; and with the burnings of your fathers, the former kings w
 Then Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem, 
 
 ###### v7 
-when the king of Babylon's army was fighting against Jerusalem, and against all the cities of Judah that were left, against Lachish and against Azekah; for these alone remained of the cities of Judah as fortified cities. 
+when the king of [[Babylon]]'s army was fighting against Jerusalem, and against all the cities of Judah that were left, against Lachish and against Azekah; for these alone remained of the cities of Judah as fortified cities. 
 
 ###### v8 
 The word came to Jeremiah from Yahweh, after king Zedekiah had made a covenant with all the people who were at Jerusalem, to proclaim liberty to them; 
@@ -66,7 +66,7 @@ the princes of Judah, the princes of Jerusalem, the eunuchs, the priests, and al
 I will even give them into the hand of their enemies, and into the hand of those who seek their life. Their dead bodies will be food for the birds of the sky and for the animals of the earth. 
 
 ###### v21 
-"I will give Zedekiah king of Judah and his princes into the hands of their enemies, into the hands of those who seek their life and into the hands of the king of Babylon's army, who has gone away from you. 
+"I will give Zedekiah king of Judah and his princes into the hands of their enemies, into the hands of those who seek their life and into the hands of the king of [[Babylon]]'s army, who has gone away from you. 
 
 ###### v22 
 Behold, I will command," says Yahweh, "and cause them to return to this city. They will fight against it, take it, and burn it with fire. I will make the cities of Judah a desolation, without inhabitant."

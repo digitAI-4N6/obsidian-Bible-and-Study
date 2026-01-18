@@ -24,7 +24,7 @@ Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, She
 You are Yahweh, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you. 
 
 ###### v7 
-You are Yahweh, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham, 
+You are Yahweh, the God who chose Abram, brought him out of [[Ur of the Chaldees]], gave him the name of Abraham, 
 
 ###### v8 
 found his heart faithful before you, and made a covenant with him to give the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite, to give it to his offspring, and have performed your words; for you are righteous. 

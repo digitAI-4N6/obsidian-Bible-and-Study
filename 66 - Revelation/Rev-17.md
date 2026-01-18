@@ -18,7 +18,7 @@ He carried me away in the Spirit into a wilderness. I saw a woman sitting on a s
 The woman was dressed in purple and scarlet, and decked with gold and precious stones and pearls, having in her hand a golden cup full of abominations and the impurities of the sexual immorality of the earth. 
 
 ###### v5 
-And on her forehead a name was written, "MYSTERY, BABYLON THE GREAT, THE MOTHER OF THE PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH." 
+And on her forehead a name was written, "MYSTERY, [[BABYLON]] THE GREAT, THE MOTHER OF THE PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH." 
 
 ###### v6 
 I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus. When I saw her, I wondered with great amazement. 

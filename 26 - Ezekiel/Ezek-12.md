@@ -42,7 +42,7 @@ In the morning, Yahweh's word came to me, saying,
 "'The prince who is among them will bear on his shoulder in the dark, and will go out. They will dig through the wall to carry things out that way. He will cover his face, because he will not see the land with his eyes. 
 
 ###### v13 
-I will also spread my net on him, and he will be taken in my snare. I will bring him to Babylon to the land of the Chaldeans; yet he will not see it, though he will die there. 
+I will also spread my net on him, and he will be taken in my snare. I will bring him to [[Babylon]] to the land of the Chaldeans; yet he will not see it, though he will die there. 
 
 ###### v14 
 I will scatter toward every wind all who are around him to help him, and all his bands. I will draw out the sword after them. 

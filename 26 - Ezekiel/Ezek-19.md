@@ -30,7 +30,7 @@ He knew their palaces, and laid waste their cities. The land was desolate, with 
 Then the nations attacked him on every side from the provinces. They spread their net over him. He was taken in their pit. 
 
 ###### v9 
-They put him in a cage with hooks, and brought him to the king of Babylon. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel. 
+They put him in a cage with hooks, and brought him to the king of [[Babylon]]. They brought him into strongholds, so that his voice should no more be heard on the mountains of Israel. 
 
 ###### v10 
 "'Your mother was like a vine in your blood, planted by the waters. It was fruitful and full of branches by reason of many waters. 

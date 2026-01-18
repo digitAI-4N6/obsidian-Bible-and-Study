@@ -33,7 +33,7 @@ You, tower of the flock, the hill of the daughter of Zion, to you it will come, 
 Now why do you cry out aloud? Is there no king in you? Has your counselor perished, that pains have taken hold of you as of a woman in travail? 
 
 ###### v10 
-Be in pain, and labor to give birth, daughter of Zion, like a woman in travail; for now you will go out of the city, and will dwell in the field, and will come even to Babylon. There you will be rescued. There Yahweh will redeem you from the hand of your enemies. 
+Be in pain, and labor to give birth, daughter of Zion, like a woman in travail; for now you will go out of the city, and will dwell in the field, and will come even to [[Babylon]]. There you will be rescued. There Yahweh will redeem you from the hand of your enemies. 
 
 ###### v11 
 Now many nations have assembled against you, that say, "Let her be defiled, and let our eye gloat over Zion." 

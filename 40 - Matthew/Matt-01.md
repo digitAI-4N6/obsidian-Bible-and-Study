@@ -36,10 +36,10 @@ Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz becam
 Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah. 
 
 ###### v11 
-Josiah became the father of Jechoniah and his brothers at the time of the exile to Babylon. 
+Josiah became the father of Jechoniah and his brothers at the time of the exile to [[Babylon]]. 
 
 ###### v12 
-After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel. 
+After the exile to [[Babylon]], Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel. 
 
 ###### v13 
 Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor. 
@@ -54,7 +54,7 @@ Eliud became the father of Eleazar. Eleazar became the father of Matthan. Mattha
 Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ. 
 
 ###### v17 
-So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations. 
+So all the generations from Abraham to David are fourteen generations; from David to the exile to [[Babylon]] fourteen generations; and from the carrying away to [[Babylon]] to the Christ, fourteen generations. 
 
 ###### v18 
 Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit. 

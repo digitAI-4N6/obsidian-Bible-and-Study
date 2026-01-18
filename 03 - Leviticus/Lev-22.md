@@ -66,7 +66,7 @@ that you may be accepted, you shall offer a male without defect, of the bulls, o
 But you shall not offer whatever has a defect, for it shall not be acceptable for you. 
 
 ###### v21 
-Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a free will offering of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect. 
+Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a free will offering of the herd or of the flock, it shall be perfect to be accepted. It shall have [[no defect]]. 
 
 ###### v22 
 You shall not offer what is blind, is injured, is maimed, has a wart, is festering, or has a running sore to Yahweh, nor make an offering by fire of them on the altar to Yahweh. 

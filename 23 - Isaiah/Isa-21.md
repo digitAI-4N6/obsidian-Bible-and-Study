@@ -30,7 +30,7 @@ When he sees a troop, horsemen in pairs, a troop of donkeys, a troop of camels, 
 He cried like a lion: "Lord, I stand continually on the watchtower in the daytime, and every night I stay at my post. 
 
 ###### v9 
-Behold, here comes a troop of men, horsemen in pairs." He answered, "Fallen, fallen is Babylon; and all the engraved images of her gods are broken to the ground. 
+Behold, here comes a troop of men, horsemen in pairs." He answered, "Fallen, fallen is [[Babylon]]; and all the engraved images of her gods are broken to the ground. 
 
 ###### v10 
 You are my threshing, and the grain of my floor!" That which I have heard from Yahweh of Armies, the God of Israel, I have declared to you. 

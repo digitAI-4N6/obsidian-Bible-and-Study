@@ -9,7 +9,7 @@
 The whole earth was of one language and of one speech.
 
 ###### v2
-As they traveled east, they found a plain in the land of Shinar, and they lived there.
+As they traveled east, they found a plain in the land of [[Shinar]], and they lived there.
 
 ###### v3
 They said to one another, "Come, let's make bricks, and burn them thoroughly." They had brick for stone, and they used tar for mortar.
@@ -30,7 +30,7 @@ Come, let's go down, and there confuse their language, that they may not underst
 So Yahweh scattered them abroad from there on the surface of all the earth. They stopped building the city.
 
 ###### v9
-Therefore its name was called Babel, because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.
+Therefore its name was called [[Babel]], because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.
 
 ###### v10
 This is the history of the generations of Shem: Shem was one hundred years old when he became the father of Arpachshad two years after the flood.
@@ -87,7 +87,7 @@ Terah lived seventy years, and became the father of Abram, Nahor, and Haran.
 Now this is the history of the generations of Terah. Terah became the father of Abram, Nahor, and Haran. Haran became the father of Lot.
 
 ###### v28
-Haran died in the land of his birth, in Ur of the Chaldees, while his father Terah was still alive.
+Haran died in the land of his birth, in [[Ur of the Chaldees]], while his father [[Terah]] was still alive.
 
 ###### v29
 Abram and Nahor married wives. The name of Abram's wife was Sarai, and the name of Nahor's wife was Milcah, the daughter of Haran, who was also the father of Iscah.
@@ -96,7 +96,7 @@ Abram and Nahor married wives. The name of Abram's wife was Sarai, and the name 
 Sarai was barren. She had no child.
 
 ###### v31
-Terah took Abram his son, Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife. They went from Ur of the Chaldees, to go into the land of Canaan. They came to Haran and lived there.
+Terah took Abram his son, Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife. They went from [[Ur of the Chaldees]], to go into the land of Canaan. They came to Haran and lived there.
 
 ###### v32
 The days of Terah were two hundred five years. Terah died in Haran.

@@ -57,10 +57,10 @@ It will no longer be the confidence of the house of Israel, bringing iniquity to
 It came to pass in the twenty-seventh year, in the first month, in the first day of the month, Yahweh's word came to me, saying, 
 
 ###### v18 
-"Son of man, Nebuchadnezzar king of Babylon caused his army to serve a great service against Tyre. Every head was made bald, and every shoulder was worn; yet he had no wages, nor did his army, from Tyre, for the service that he had served against it. 
+"Son of man, Nebuchadnezzar king of [[Babylon]] caused his army to serve a great service against Tyre. Every head was made bald, and every shoulder was worn; yet he had no wages, nor did his army, from Tyre, for the service that he had served against it. 
 
 ###### v19 
-Therefore the Lord Yahweh says: 'Behold, I will give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army. 
+Therefore the Lord Yahweh says: 'Behold, I will give the land of Egypt to Nebuchadnezzar king of [[Babylon]]. He will carry off her multitude, take her plunder, and take her prey. That will be the wages for his army. 
 
 ###### v20 
 I have given him the land of Egypt as his payment for which he served, because they worked for me,' says the Lord Yahweh. 

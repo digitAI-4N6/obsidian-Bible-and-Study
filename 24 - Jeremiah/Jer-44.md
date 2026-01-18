@@ -93,7 +93,7 @@ Those who escape the sword will return out of the land of Egypt into the land of
 "'This will be the sign to you,' says Yahweh, 'that I will punish you in this place, that you may know that my words will surely stand against you for evil.' 
 
 ###### v30 
-Yahweh says, 'Behold, I will give Pharaoh Hophra king of Egypt into the hand of his enemies, and into the hand of those who seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, who was his enemy, and sought his life.'"
+Yahweh says, 'Behold, I will give Pharaoh Hophra king of Egypt into the hand of his enemies, and into the hand of those who seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of [[Babylon]], who was his enemy, and sought his life.'"
 
 ***
 [[Jer-43|← Jeremiah 43]] | [[Jeremiah]] | [[Jer-45|Jeremiah 45 →]]

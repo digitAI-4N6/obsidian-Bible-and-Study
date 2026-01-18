@@ -6,17 +6,17 @@
 
 > **Note:** This page functions as a **reference backend** for Daniel, Revelation, and related studies
 
-## I. Babel and the Beginnings
+## I. [[Babel]] and the Beginnings
 
 
 ### Genesis 10:10 
 
-> The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of [[Shinar]].
+> The beginning of his kingdom was [[Babel]], Erech, Accad, and Calneh, in the land of [[Shinar]].
 
 
 ### Genesis 11:9 
 
-> Therefore its name was called Babel, because Yahweh confused the language of all the earth there.
+> Therefore its name was called [[Babel]], because Yahweh confused the language of all the earth there.
 
 
 ## II. Assyrian Context and Early Mentions

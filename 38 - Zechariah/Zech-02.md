@@ -24,7 +24,7 @@ For I,' says Yahweh, 'will be to her a wall of fire around it, and I will be the
 Come! Come! Flee from the land of the north,' says Yahweh; 'for I have spread you abroad as the four winds of the sky,' says Yahweh. 
 
 ###### v7 
-'Come, Zion! Escape, you who dwell with the daughter of Babylon.' 
+'Come, Zion! Escape, you who dwell with the daughter of [[Babylon]].' 
 
 ###### v8 
 For Yahweh of Armies says: 'For honor he has sent me to the nations which plundered you; for he who touches you touches the apple of his eye. 
